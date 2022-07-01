@@ -1,0 +1,18 @@
+nav {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+}
+
+.nav-logo__text {
+    font-family: $font;
+    font-weight: 700;
+    color: $brand-color-white;
+    font-size: 15px;
+}
+
+.nav-logo {
+    text-decoration: none;
+}
