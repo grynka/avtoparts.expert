@@ -11,6 +11,7 @@
     <title>avtoparts.expert</title>
 </head>
 <body>
+        <script src="./js/search.js"></script>
     <header>
 <nav class="container">
     <a class="nav-logo" href="./index.html"
@@ -75,16 +76,39 @@
 в Україні</p>
 </div>
                 <form class="find">
-                    <input type="text" class="find_field" placeholder="Введіть код або назву запчастини">
-                </form>
+                    <input type="text" class="find_field" placeholder="Введіть код або назву запчастини" id="search">
+                <button id="search1"></button>
+                  </form>
     </main>
+    <ul class="search">
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sint ullam blanditiis non, commodi adipisci quos! Natus, laboriosam in assumenda repellat reprehenderit fugit ullam consequuntur nobis, asperiores debitis obcaecati rerum.</li>
+
+    </ul>
     <footer>
 
     </footer>
     <script src="./js/test.js"></script>
-      <script src="./js/modal.js"></script>
+      <script src="./js/search.js"></script>
     <script defer src="./js/mobile-menu.js"></script>
     <script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/body-scroll-lock/3.1.5/bodyScrollLock.min.js" integrity="sha512-HowizSDbQl7UPEAsPnvJHlQsnBmU2YMrv7KkTBulTLEGz9chfBoWYyZJL+MUO6p/yBuuMO/8jI7O29YRZ2uBlA==" crossorigin="anonymous"></script>
-
+<script>
+$(document).ready(function(){
+$(function() {
+$("[name=s_search5]").autocomplete({
+minLength: 1,
+appendTo: '.uirezultbd',
+open: function(event, ui) {
+$('.uirezultshapka_tr').html('<div class="uirezultshapka_td25">id</div><div class="uirezultshapka_td25">Название</div><div class="uirezultshapka_td25">Создано</div><div class="uirezultshapka_td25">Ссылка</div>');
+},
+source: 'poiskbest.php?search_tip=title'
+}); }); });
+</script>
 </body>
 </html>
