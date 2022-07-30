@@ -1,43 +1,75 @@
 .part {
-    width: 100%;
-    text-align: left;
-    font-size: 14px;
-    color: #3B3B3C;
+  width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #3b3b3c;
 }
 
 .part__added {
-    font-size: 12px;
-    color: #4B9649;
-    margin: 0;
-    display: flex;
+  font-size: 12px;
+  color: #4b9649;
+  margin: 0;
+  display: flex;
 }
 
 .part__i {
-    width: 15px;
-    height: 15px;
-    background-color: #4B9649;
-    border-radius: 50%;
-    color: white;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-right: 5px;
+  width: 15px;
+  height: 15px;
+  background-color: #4b9649;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-right: 5px;
 }
 
 .part__thead {
-    font-size: 16px;
-    line-height: 2em;
-    font-weight: 700;
+  font-size: 16px;
+  line-height: 2em;
+  font-weight: 700;
 }
 
 .col-110 {
-    min-width: 110px;
+  min-width: 110px;
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2
-    }
+  background-color: #f2f2f2;
+}
 
-    tr {
-        height: 35px;
-    }
+tr {
+  height: 35px;
+}
+
+.item__img > img {
+  max-width: 50px;
+  display: block;
+}
+
+.item__sallers {
+  display: flex;
+  flex-wrap: wrap;
+justify-content: space-between;
+    font-size: 13px;
+        line-height: 40px;
+}
+
+.item__discription {
+  width: 100%;
+}
+
+.item__saller {
+  width: 50%;
+}
+
+.part {
+    display: none;
+}
+
+.item__buy {
+    color: white;
+    background-color: #943D18;
+    border-radius: 10px;
+    border: none;
+}
