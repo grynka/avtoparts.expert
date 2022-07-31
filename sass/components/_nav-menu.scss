@@ -34,8 +34,12 @@
 }
 
 .parts .nav-logo__text {
-    color: #000;
-    fill: #000;
+    color: #fff;
+    fill: #fff;
     width: 100px;
     display: block;
+}
+
+nav.container {
+  background-color: #943d18;
 }
