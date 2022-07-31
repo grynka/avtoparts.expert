@@ -95,3 +95,10 @@ justify-content: space-between;
     border-radius: 10px;
     border: none;
 }
+
+.item__delivery {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 58%;
+}
