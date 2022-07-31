@@ -102,3 +102,16 @@ justify-content: space-between;
   align-items: center;
   max-width: 58%;
 }
+
+.details__gallery {
+  max-width: 50%;
+}
+
+.details {
+  display: flex;
+  padding: 15px 0;
+}
+
+.details__info {
+  padding-left: 15px;
+}
