@@ -11,7 +11,7 @@
     <title>avtoparts.expert</title>
 </head>
 <body>
-        <script src="./js/search.js"></script>
+
     <header>
 <nav class="container">
     <a class="nav-logo" href="./index.html"
@@ -61,7 +61,7 @@
             </li>
           </ul>
           </div>
-          <div><include src="/search.html"></include></div>
+                   <div><include src="/search.html"></include></div>
           <ul class="nav-menu">
              <li class="nav-menu__item"><a class="nav-menu__link">каталог</a></li>
             <li class="nav-menu__item"><a class="nav-menu__link">автосервисы</a></li>
@@ -72,10 +72,25 @@
 </nav>
     </header>
     <main>
+
 <div class="tagline"><svg class="tagline_icons"><use class="tagline_icon"
                 href="./images/icon.svg#car"></use></svg>еталі важливі
             <p class="tagline_sub">сервіс із пошуку автозапчастин 
 в Україні</p>
+</div>
+<div class="garage">
+  <h2>Выбрать автомобиль</h2>
+  <form id="auto_select">
+    <label id="year">Рік випуску</label>
+    <select id="year"><option>1994</option><option>1995</option></select>
+    <label id="manufacturer" disable>Виробник</label>
+    <select id="manufacturer"></select>
+    <label id="model">Модель</label>
+    <select id="model"></select>
+    <label id="type">Модифікація</label>
+    <select id="type"></select>
+    <button type="submit">Додати в гараж</button>
+  </form>
 </div>
                 <form class="find">
                     <input type="text" class="find_field" placeholder="Введіть код або назву запчастини" id="search">
@@ -96,6 +111,7 @@
     <footer>
 
     </footer>
+        <script src="./js/manufacturers.json"></script>
     <script src="./js/test.js"></script>
       <script src="./js/search.js"></script>
     <script defer src="./js/mobile-menu.js"></script>

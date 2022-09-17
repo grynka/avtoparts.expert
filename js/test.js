@@ -1,6 +1,31 @@
-const orderedQuantity = 6;
-const pricePerDroid = 800;
-const deliveryFee = 50;
-const totalPrice = (orderedQuantity*pricePerDroid)+deliveryFee;
-const message =`You ordered droids worth ${totalPrice} credits. Delivery (${deliveryFee} credits) is included in total price.`;
-console.log(message);
+
+const years = document.querySelector("select#year");
+const manufacturer = document.querySelector("select#manufacturer");
+const model = document.querySelector("select#model");
+const type = document.querySelector("select#type");
+
+const manufacturersOption = document.createElement("option");
+
+years.addEventListener(
+  "change",
+  (event = () => {
+    console.log("click");
+    manufacturer.innerHTML = "<option>ACURA</option><option>BMW</option>";
+  })
+);
+
+manufacturer.addEventListener(
+  "change",
+  (event = () => {
+    console.log("click");
+    model.innerHTML = "<option>MDX</option><option>3-series</option>";
+  })
+);
+
+model.addEventListener(
+  "change",
+  (event = () => {
+    console.log("click");
+    type.innerHTML = "<option>3.5L SL</option>";
+  })
+);
