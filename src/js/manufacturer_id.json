@@ -1,0 +1,4727 @@
+[
+  {
+    "MFA_ID": 136,
+    "MFA_BRAND": "DANA",
+    "MFA_MFC_CODE": "DANA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 162,
+    "MFA_BRAND": "KUNEWALDE",
+    "MFA_MFC_CODE": "KUNEW",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 173,
+    "MFA_BRAND": "SMB",
+    "MFA_MFC_CODE": "SMB",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 176,
+    "MFA_BRAND": "IRISBUS",
+    "MFA_MFC_CODE": "IRISB",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 204,
+    "MFA_BRAND": "VM",
+    "MFA_MFC_CODE": "VM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 211,
+    "MFA_BRAND": "LOMBARDINI",
+    "MFA_MFC_CODE": "LOMBA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 220,
+    "MFA_BRAND": "AYATS",
+    "MFA_MFC_CODE": "AYATS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 222,
+    "MFA_BRAND": "MAYBACH",
+    "MFA_MFC_CODE": "MAYB",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 270,
+    "MFA_BRAND": "GIGANT",
+    "MFA_MFC_CODE": "GIGAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 272,
+    "MFA_BRAND": "HENDRICKSON",
+    "MFA_MFC_CODE": "HENDR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 279,
+    "MFA_BRAND": "MERITOR",
+    "MFA_MFC_CODE": "MERI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 284,
+    "MFA_BRAND": "SCHMITZ CARGOBULL",
+    "MFA_MFC_CODE": "SC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 294,
+    "MFA_BRAND": "ASHOK LEYLAND",
+    "MFA_MFC_CODE": "ASHOK LEYL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 295,
+    "MFA_BRAND": "ASKAM (FARGO/DESOTO)",
+    "MFA_MFC_CODE": "ASKAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 296,
+    "MFA_BRAND": "BMC",
+    "MFA_MFC_CODE": "BMC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 298,
+    "MFA_BRAND": "MAZ",
+    "MFA_MFC_CODE": "MAZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 310,
+    "MFA_BRAND": "DEUTZ",
+    "MFA_MFC_CODE": "DEUTZAG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 430,
+    "MFA_BRAND": "BREDAMENARINIBUS",
+    "MFA_MFC_CODE": "BREDAMERI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 487,
+    "MFA_BRAND": "KAMAZ",
+    "MFA_MFC_CODE": "KAMAZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 494,
+    "MFA_BRAND": "INTERNATIONAL",
+    "MFA_MFC_CODE": "INTERNATIO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 501,
+    "MFA_BRAND": "AEBI",
+    "MFA_MFC_CODE": "AEBI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 502,
+    "MFA_BRAND": "ALFA ROMEO",
+    "MFA_MFC_CODE": "ALFA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 503,
+    "MFA_BRAND": "AUTO UNION",
+    "MFA_MFC_CODE": "AUTOU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 504,
+    "MFA_BRAND": "AUDI",
+    "MFA_MFC_CODE": "AUDI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 505,
+    "MFA_BRAND": "AUSTIN",
+    "MFA_MFC_CODE": "AUSTI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 508,
+    "MFA_BRAND": "BARREIROS",
+    "MFA_MFC_CODE": "BARRE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 509,
+    "MFA_BRAND": "BEDFORD",
+    "MFA_MFC_CODE": "BEDFO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 510,
+    "MFA_BRAND": "BERLIET",
+    "MFA_MFC_CODE": "BERLI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 511,
+    "MFA_BRAND": "BMW",
+    "MFA_MFC_CODE": "BMW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 512,
+    "MFA_BRAND": "BUESSING",
+    "MFA_MFC_CODE": "BUESS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 513,
+    "MFA_BRAND": "CHRYSLER",
+    "MFA_MFC_CODE": "CHRYS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 514,
+    "MFA_BRAND": "CITROËN",
+    "MFA_MFC_CODE": "CITRO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 515,
+    "MFA_BRAND": "COMMER",
+    "MFA_MFC_CODE": "COMME",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 516,
+    "MFA_BRAND": "DAF",
+    "MFA_MFC_CODE": "DAF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 517,
+    "MFA_BRAND": "DAIHATSU",
+    "MFA_MFC_CODE": "DAIHA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 518,
+    "MFA_BRAND": "DAIMLER",
+    "MFA_MFC_CODE": "DAIML",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 521,
+    "MFA_BRAND": "DODGE",
+    "MFA_MFC_CODE": "DODGE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 522,
+    "MFA_BRAND": "DRÖGMÖLLER",
+    "MFA_MFC_CODE": "DROEG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 524,
+    "MFA_BRAND": "FIAT",
+    "MFA_MFC_CODE": "FIAT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 525,
+    "MFA_BRAND": "FORD",
+    "MFA_MFC_CODE": "FORD",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 527,
+    "MFA_BRAND": "GMC",
+    "MFA_MFC_CODE": "GMC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 530,
+    "MFA_BRAND": "HANOMAG HENSCHEL",
+    "MFA_MFC_CODE": "HANOH",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 531,
+    "MFA_BRAND": "HANOMAG RHEINSTAHL",
+    "MFA_MFC_CODE": "HANOR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 532,
+    "MFA_BRAND": "HENSCHEL",
+    "MFA_MFC_CODE": "HENSC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 533,
+    "MFA_BRAND": "HONDA",
+    "MFA_MFC_CODE": "HONDA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 535,
+    "MFA_BRAND": "IKARUS",
+    "MFA_MFC_CODE": "IKARU",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 536,
+    "MFA_BRAND": "INNOCENTI",
+    "MFA_MFC_CODE": "INNOC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 537,
+    "MFA_BRAND": "INTERNATIONAL HARV.",
+    "MFA_MFC_CODE": "IH",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 538,
+    "MFA_BRAND": "ISUZU",
+    "MFA_MFC_CODE": "ISUZU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 539,
+    "MFA_BRAND": "IVECO",
+    "MFA_MFC_CODE": "IVECO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 540,
+    "MFA_BRAND": "JAGUAR",
+    "MFA_MFC_CODE": "JAGUA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 542,
+    "MFA_BRAND": "KÄSSBOHRER",
+    "MFA_MFC_CODE": "KAESS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 543,
+    "MFA_BRAND": "KHD",
+    "MFA_MFC_CODE": "KHD",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 545,
+    "MFA_BRAND": "LADA",
+    "MFA_MFC_CODE": "LADA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 546,
+    "MFA_BRAND": "LANCIA",
+    "MFA_MFC_CODE": "LANCIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 547,
+    "MFA_BRAND": "LEYLAND",
+    "MFA_MFC_CODE": "LEYLA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 548,
+    "MFA_BRAND": "LIAZ",
+    "MFA_MFC_CODE": "LIAZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 549,
+    "MFA_BRAND": "MACK",
+    "MFA_MFC_CODE": "MACK",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 550,
+    "MFA_BRAND": "MAGIRUS-DEUTZ",
+    "MFA_MFC_CODE": "MAGIR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 551,
+    "MFA_BRAND": "MAN",
+    "MFA_MFC_CODE": "MAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 552,
+    "MFA_BRAND": "MAZDA",
+    "MFA_MFC_CODE": "MAZDA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 553,
+    "MFA_BRAND": "MERCEDES-BENZ",
+    "MFA_MFC_CODE": "MERCE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 554,
+    "MFA_BRAND": "MG",
+    "MFA_MFC_CODE": "MG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 555,
+    "MFA_BRAND": "MITSUBISHI",
+    "MFA_MFC_CODE": "MITSUBISHI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 556,
+    "MFA_BRAND": "MORRIS",
+    "MFA_MFC_CODE": "MORRI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 557,
+    "MFA_BRAND": "MULTICAR",
+    "MFA_MFC_CODE": "MULTI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 558,
+    "MFA_BRAND": "NISSAN",
+    "MFA_MFC_CODE": "NISSA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 559,
+    "MFA_BRAND": "NSU",
+    "MFA_MFC_CODE": "NSU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 560,
+    "MFA_BRAND": "OM",
+    "MFA_MFC_CODE": "OM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 561,
+    "MFA_BRAND": "OPEL",
+    "MFA_MFC_CODE": "OPEL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 563,
+    "MFA_BRAND": "PEUGEOT",
+    "MFA_MFC_CODE": "PEUGE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 564,
+    "MFA_BRAND": "YORK",
+    "MFA_MFC_CODE": "YORK",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 565,
+    "MFA_BRAND": "PORSCHE",
+    "MFA_MFC_CODE": "PORSC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 566,
+    "MFA_BRAND": "RENAULT",
+    "MFA_MFC_CODE": "RENAU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 568,
+    "MFA_BRAND": "ROVER",
+    "MFA_MFC_CODE": "ROVER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 569,
+    "MFA_BRAND": "SAAB",
+    "MFA_MFC_CODE": "SAAB",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 570,
+    "MFA_BRAND": "SAURER",
+    "MFA_MFC_CODE": "SAURE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 571,
+    "MFA_BRAND": "SAVIEM",
+    "MFA_MFC_CODE": "SAVIE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 572,
+    "MFA_BRAND": "SCANIA",
+    "MFA_MFC_CODE": "SCANI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 573,
+    "MFA_BRAND": "SEAT",
+    "MFA_MFC_CODE": "SEAT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 574,
+    "MFA_BRAND": "SIMCA",
+    "MFA_MFC_CODE": "SIMCA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 575,
+    "MFA_BRAND": "SKODA",
+    "MFA_MFC_CODE": "SKODA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 576,
+    "MFA_BRAND": "SUBARU",
+    "MFA_MFC_CODE": "SUBAR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 577,
+    "MFA_BRAND": "SUZUKI",
+    "MFA_MFC_CODE": "SUZUK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 578,
+    "MFA_BRAND": "TALBOT",
+    "MFA_MFC_CODE": "TALBO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 579,
+    "MFA_BRAND": "TOYOTA",
+    "MFA_MFC_CODE": "TOYOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 580,
+    "MFA_BRAND": "TRIUMPH",
+    "MFA_MFC_CODE": "TRIUM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 581,
+    "MFA_BRAND": "UNIC-SIMCA",
+    "MFA_MFC_CODE": "UNIC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 582,
+    "MFA_BRAND": "VAN HOOL",
+    "MFA_MFC_CODE": "VANHO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 583,
+    "MFA_BRAND": "VAUXHALL",
+    "MFA_MFC_CODE": "VAUXH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 586,
+    "MFA_BRAND": "VOLVO",
+    "MFA_MFC_CODE": "VOLVO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 587,
+    "MFA_BRAND": "VW",
+    "MFA_MFC_CODE": "VW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 589,
+    "MFA_BRAND": "ZASTAVA",
+    "MFA_MFC_CODE": "ZASTA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 591,
+    "MFA_BRAND": "AEC",
+    "MFA_MFC_CODE": "AEC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 592,
+    "MFA_BRAND": "AGRALE",
+    "MFA_MFC_CODE": "AGRALE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 594,
+    "MFA_BRAND": "ALCATEL",
+    "MFA_MFC_CODE": "ALCAT",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 595,
+    "MFA_BRAND": "ASTRA",
+    "MFA_MFC_CODE": "ASTRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 596,
+    "MFA_BRAND": "AVIA",
+    "MFA_MFC_CODE": "AVIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 597,
+    "MFA_BRAND": "AVIA (MISA)",
+    "MFA_MFC_CODE": "AVIAM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 598,
+    "MFA_BRAND": "BARKAS",
+    "MFA_MFC_CODE": "BARKA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 600,
+    "MFA_BRAND": "BORGWARD",
+    "MFA_MFC_CODE": "BORGW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 601,
+    "MFA_BRAND": "BOVA",
+    "MFA_MFC_CODE": "BOVA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 602,
+    "MFA_BRAND": "CHEVROLET",
+    "MFA_MFC_CODE": "CHEVR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 603,
+    "MFA_BRAND": "DACIA",
+    "MFA_MFC_CODE": "DACIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 604,
+    "MFA_BRAND": "DENNIS",
+    "MFA_MFC_CODE": "DENNI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 606,
+    "MFA_BRAND": "EBRO",
+    "MFA_MFC_CODE": "EBRO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 607,
+    "MFA_BRAND": "ERF",
+    "MFA_MFC_CODE": "ERF",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 609,
+    "MFA_BRAND": "FAUN",
+    "MFA_MFC_CODE": "FAUN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 611,
+    "MFA_BRAND": "FREIGHTLINER",
+    "MFA_MFC_CODE": "FREIGTLINE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 612,
+    "MFA_BRAND": "GAZ",
+    "MFA_MFC_CODE": "GAZ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 614,
+    "MFA_BRAND": "HEULIEZ",
+    "MFA_MFC_CODE": "HEULI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 615,
+    "MFA_BRAND": "HINO",
+    "MFA_MFC_CODE": "HINO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 616,
+    "MFA_BRAND": "IME",
+    "MFA_MFC_CODE": "IME",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 620,
+    "MFA_BRAND": "LEYLAND-DAF",
+    "MFA_MFC_CODE": "LEYLD",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 621,
+    "MFA_BRAND": "LEYLAND-FREIGHT ROVE",
+    "MFA_MFC_CODE": "LEYLR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 625,
+    "MFA_BRAND": "MERCURY",
+    "MFA_MFC_CODE": "MERCURY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 626,
+    "MFA_BRAND": "NEOPLAN",
+    "MFA_MFC_CODE": "NEOPL",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 628,
+    "MFA_BRAND": "PADANE",
+    "MFA_MFC_CODE": "PADAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 629,
+    "MFA_BRAND": "ENASA",
+    "MFA_MFC_CODE": "ENASA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 635,
+    "MFA_BRAND": "SANTANA",
+    "MFA_MFC_CODE": "SANTANA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 636,
+    "MFA_BRAND": "SAVA",
+    "MFA_MFC_CODE": "SAVA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 637,
+    "MFA_BRAND": "SEDDON DIESEL",
+    "MFA_MFC_CODE": "SEDDO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 638,
+    "MFA_BRAND": "SISU",
+    "MFA_MFC_CODE": "SISU",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 639,
+    "MFA_BRAND": "SSANGYONG",
+    "MFA_MFC_CODE": "SSANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 640,
+    "MFA_BRAND": "STEYR",
+    "MFA_MFC_CODE": "STEYR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 641,
+    "MFA_BRAND": "TAM",
+    "MFA_MFC_CODE": "TAM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 642,
+    "MFA_BRAND": "TATA",
+    "MFA_MFC_CODE": "TATA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 643,
+    "MFA_BRAND": "TATRA",
+    "MFA_MFC_CODE": "TATRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 645,
+    "MFA_BRAND": "PIAGGIO",
+    "MFA_MFC_CODE": "PIAGGIO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 647,
+    "MFA_BRAND": "HYUNDAI",
+    "MFA_MFC_CODE": "HYUNDAI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 648,
+    "MFA_BRAND": "KIA",
+    "MFA_MFC_CODE": "KIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 649,
+    "MFA_BRAND": "DAEWOO",
+    "MFA_MFC_CODE": "DAEWOO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 650,
+    "MFA_BRAND": "WARTBURG",
+    "MFA_MFC_CODE": "WARTB",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 651,
+    "MFA_BRAND": "TRABANT",
+    "MFA_MFC_CODE": "TRABA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 666,
+    "MFA_BRAND": "AC",
+    "MFA_MFC_CODE": "AC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 679,
+    "MFA_BRAND": "SETRA",
+    "MFA_MFC_CODE": "SETRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 709,
+    "MFA_BRAND": "CASE IH",
+    "MFA_MFC_CODE": "CASE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 717,
+    "MFA_BRAND": "MASSEY FERGUSON",
+    "MFA_MFC_CODE": "MASSEY FER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 718,
+    "MFA_BRAND": "MWM",
+    "MFA_MFC_CODE": "MWM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 722,
+    "MFA_BRAND": "SAME",
+    "MFA_MFC_CODE": "SAME",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 726,
+    "MFA_BRAND": "ZUENDAPP",
+    "MFA_MFC_CODE": "ZUEND",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 727,
+    "MFA_BRAND": "LIEBHERR",
+    "MFA_MFC_CODE": "LIEB",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 739,
+    "MFA_BRAND": "RENAULT TRUCKS",
+    "MFA_MFC_CODE": "RENAULT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 745,
+    "MFA_BRAND": "FERRARI",
+    "MFA_MFC_CODE": "FERRA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 746,
+    "MFA_BRAND": "LAMBORGHINI",
+    "MFA_MFC_CODE": "LAMBO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 748,
+    "MFA_BRAND": "ROLLS-ROYCE",
+    "MFA_MFC_CODE": "ROLLS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 758,
+    "MFA_BRAND": "CUMMINS",
+    "MFA_MFC_CODE": "CUMM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 765,
+    "MFA_BRAND": "PERKINS",
+    "MFA_MFC_CODE": "PERKINS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 789,
+    "MFA_BRAND": "CLAAS",
+    "MFA_MFC_CODE": "CLAAS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 790,
+    "MFA_BRAND": "DEUTZ-FAHR",
+    "MFA_MFC_CODE": "DEUTZ FAHR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 791,
+    "MFA_BRAND": "FENDT",
+    "MFA_MFC_CODE": "FENDT",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 793,
+    "MFA_BRAND": "JOHN DEERE",
+    "MFA_MFC_CODE": "JOHN DEERE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 809,
+    "MFA_BRAND": "MASERATI",
+    "MFA_MFC_CODE": "MASER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 811,
+    "MFA_BRAND": "RELIANT",
+    "MFA_MFC_CODE": "RELIANT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 812,
+    "MFA_BRAND": "PONTIAC",
+    "MFA_MFC_CODE": "PONTI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 813,
+    "MFA_BRAND": "FSO",
+    "MFA_MFC_CODE": "FSO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 814,
+    "MFA_BRAND": "FORD USA",
+    "MFA_MFC_CODE": "FORD USA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 816,
+    "MFA_BRAND": "PROTON",
+    "MFA_MFC_CODE": "PROTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 824,
+    "MFA_BRAND": "BUGATTI",
+    "MFA_MFC_CODE": "BUGAT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 834,
+    "MFA_BRAND": "AUTOBIANCHI",
+    "MFA_MFC_CODE": "AUTOB",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 836,
+    "MFA_BRAND": "HOLDEN",
+    "MFA_MFC_CODE": "HOLDE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 837,
+    "MFA_BRAND": "LOTUS",
+    "MFA_MFC_CODE": "LOTUS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 838,
+    "MFA_BRAND": "MORGAN",
+    "MFA_MFC_CODE": "MORGA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 841,
+    "MFA_BRAND": "DATSUN",
+    "MFA_MFC_CODE": "DATSUN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 842,
+    "MFA_BRAND": "FORD OTOSAN",
+    "MFA_MFC_CODE": "FORDOTOSAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 844,
+    "MFA_BRAND": "ALPINE",
+    "MFA_MFC_CODE": "ALPIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 845,
+    "MFA_BRAND": "GLAS",
+    "MFA_MFC_CODE": "GLAS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 846,
+    "MFA_BRAND": "MOSKVICH",
+    "MFA_MFC_CODE": "MOSKV",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 848,
+    "MFA_BRAND": "BENTLEY",
+    "MFA_MFC_CODE": "BENT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 849,
+    "MFA_BRAND": "BUICK",
+    "MFA_MFC_CODE": "BUICK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 852,
+    "MFA_BRAND": "CADILLAC",
+    "MFA_MFC_CODE": "CADIL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 857,
+    "MFA_BRAND": "EAGLE",
+    "MFA_MFC_CODE": "EAGLE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 862,
+    "MFA_BRAND": "FODEN TRUCKS",
+    "MFA_MFC_CODE": "FODEN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 864,
+    "MFA_BRAND": "GEO",
+    "MFA_MFC_CODE": "GEO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 865,
+    "MFA_BRAND": "GINAF",
+    "MFA_MFC_CODE": "GINAF",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 869,
+    "MFA_BRAND": "JCB",
+    "MFA_MFC_CODE": "JCB",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 871,
+    "MFA_BRAND": "KÖGEL",
+    "MFA_MFC_CODE": "KOEGEL",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 874,
+    "MFA_BRAND": "LEXUS",
+    "MFA_MFC_CODE": "LEXUS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 875,
+    "MFA_BRAND": "MCW",
+    "MFA_MFC_CODE": "MCW",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 877,
+    "MFA_BRAND": "MEGA",
+    "MFA_MFC_CODE": "MEGA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 881,
+    "MFA_BRAND": "OPTARE",
+    "MFA_MFC_CODE": "OPTARE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 882,
+    "MFA_BRAND": "PLYMOUTH",
+    "MFA_MFC_CODE": "PLYMOUTH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 883,
+    "MFA_BRAND": "PREMIER",
+    "MFA_MFC_CODE": "PREMI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 887,
+    "MFA_BRAND": "ROCKWELL",
+    "MFA_MFC_CODE": "ROR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 888,
+    "MFA_BRAND": "SAF",
+    "MFA_MFC_CODE": "SAF",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 892,
+    "MFA_BRAND": "TERBERG-BENSCHOP",
+    "MFA_MFC_CODE": "TERBE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 893,
+    "MFA_BRAND": "TVR",
+    "MFA_MFC_CODE": "TVR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 897,
+    "MFA_BRAND": "BERKHOF",
+    "MFA_MFC_CODE": "BERKH",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 898,
+    "MFA_BRAND": "ALPINA",
+    "MFA_MFC_CODE": "ALPI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 907,
+    "MFA_BRAND": "ASIA MOTORS",
+    "MFA_MFC_CODE": "ASIAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 908,
+    "MFA_BRAND": "PUMA",
+    "MFA_MFC_CODE": "PUMA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 909,
+    "MFA_BRAND": "ASTON MARTIN",
+    "MFA_MFC_CODE": "ASTON",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 910,
+    "MFA_BRAND": "JEEP",
+    "MFA_MFC_CODE": "JEEP",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 913,
+    "MFA_BRAND": "BPW",
+    "MFA_MFC_CODE": "BPW",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 922,
+    "MFA_BRAND": "EATON",
+    "MFA_MFC_CODE": "EATON",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 935,
+    "MFA_BRAND": "WESTFIELD",
+    "MFA_MFC_CODE": "WESTFIELD",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 936,
+    "MFA_BRAND": "MARUTI",
+    "MFA_MFC_CODE": "MARUT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 965,
+    "MFA_BRAND": "CATERPILLAR",
+    "MFA_MFC_CODE": "CATER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1004,
+    "MFA_BRAND": "KRAMER",
+    "MFA_MFC_CODE": "KRAMER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1005,
+    "MFA_BRAND": "KUBOTA",
+    "MFA_MFC_CODE": "KUBOT",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1007,
+    "MFA_BRAND": "LANDINI",
+    "MFA_MFC_CODE": "LANDINI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1053,
+    "MFA_BRAND": "GUELDNER",
+    "MFA_MFC_CODE": "GUELDNER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1061,
+    "MFA_BRAND": "AGCO",
+    "MFA_MFC_CODE": "AGCO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1067,
+    "MFA_BRAND": "BAUTZ",
+    "MFA_MFC_CODE": "BAUTZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1068,
+    "MFA_BRAND": "BCS",
+    "MFA_MFC_CODE": "BCS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1076,
+    "MFA_BRAND": "CARRARO",
+    "MFA_MFC_CODE": "CARRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1085,
+    "MFA_BRAND": "EICHER",
+    "MFA_MFC_CODE": "EICHER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1088,
+    "MFA_BRAND": "FAHR",
+    "MFA_MFC_CODE": "FAHR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1091,
+    "MFA_BRAND": "GOLDONI",
+    "MFA_MFC_CODE": "GOLDONI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1138,
+    "MFA_BRAND": "YANMAR",
+    "MFA_MFC_CODE": "YANMAR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1139,
+    "MFA_BRAND": "ZETOR",
+    "MFA_MFC_CODE": "ZETOR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1149,
+    "MFA_BRAND": "SMART",
+    "MFA_MFC_CODE": "SMART",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1150,
+    "MFA_BRAND": "ZAZ",
+    "MFA_MFC_CODE": "ZAZ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1151,
+    "MFA_BRAND": "OLDSMOBILE",
+    "MFA_MFC_CODE": "OLDS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1152,
+    "MFA_BRAND": "LINCOLN",
+    "MFA_MFC_CODE": "LINCO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1158,
+    "MFA_BRAND": "MAHINDRA",
+    "MFA_MFC_CODE": "MAHINDRA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 1163,
+    "MFA_BRAND": "ARO",
+    "MFA_MFC_CODE": "ARO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1164,
+    "MFA_BRAND": "LDV",
+    "MFA_MFC_CODE": "LDV",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1190,
+    "MFA_BRAND": "AIXAM",
+    "MFA_MFC_CODE": "AIXAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1193,
+    "MFA_BRAND": "BERTONE",
+    "MFA_MFC_CODE": "BERT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1194,
+    "MFA_BRAND": "BITTER",
+    "MFA_MFC_CODE": "BITTER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1195,
+    "MFA_BRAND": "BRISTOL",
+    "MFA_MFC_CODE": "BRIST",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1196,
+    "MFA_BRAND": "CALLAWAY",
+    "MFA_MFC_CODE": "CALLA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1197,
+    "MFA_BRAND": "CARBODIES",
+    "MFA_MFC_CODE": "CARBO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1198,
+    "MFA_BRAND": "CATERHAM",
+    "MFA_MFC_CODE": "CATE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1199,
+    "MFA_BRAND": "CHECKER",
+    "MFA_MFC_CODE": "CHECK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1201,
+    "MFA_BRAND": "DALLAS",
+    "MFA_MFC_CODE": "DALLA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1202,
+    "MFA_BRAND": "DE LOREAN",
+    "MFA_MFC_CODE": "DELOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1203,
+    "MFA_BRAND": "DE TOMASO",
+    "MFA_MFC_CODE": "DETOM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1204,
+    "MFA_BRAND": "FORD AUSTRALIA",
+    "MFA_MFC_CODE": "FORDA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1205,
+    "MFA_BRAND": "SATURN",
+    "MFA_MFC_CODE": "SATUR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1206,
+    "MFA_BRAND": "GINETTA",
+    "MFA_MFC_CODE": "GINET",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1207,
+    "MFA_BRAND": "HINDUSTAN",
+    "MFA_MFC_CODE": "HINDU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1208,
+    "MFA_BRAND": "HOBBYCAR",
+    "MFA_MFC_CODE": "HOBBY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1213,
+    "MFA_BRAND": "ACURA",
+    "MFA_MFC_CODE": "ACURA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1214,
+    "MFA_BRAND": "HUMMER",
+    "MFA_MFC_CODE": "HUMME",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1215,
+    "MFA_BRAND": "INDIGO",
+    "MFA_MFC_CODE": "INDIGO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1216,
+    "MFA_BRAND": "IRMSCHER",
+    "MFA_MFC_CODE": "IRMSCHER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1217,
+    "MFA_BRAND": "ISDERA",
+    "MFA_MFC_CODE": "ISDER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1218,
+    "MFA_BRAND": "ISH",
+    "MFA_MFC_CODE": "ISH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1219,
+    "MFA_BRAND": "JENSEN",
+    "MFA_MFC_CODE": "JENSE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1221,
+    "MFA_BRAND": "LIGIER",
+    "MFA_MFC_CODE": "LIGIER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1224,
+    "MFA_BRAND": "MARCOS",
+    "MFA_MFC_CODE": "MARCO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1226,
+    "MFA_BRAND": "MCLAREN",
+    "MFA_MFC_CODE": "MCLAREN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1228,
+    "MFA_BRAND": "METROCAB",
+    "MFA_MFC_CODE": "METROCAB",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1229,
+    "MFA_BRAND": "MIDDLEBRIDGE",
+    "MFA_MFC_CODE": "MIDDL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1230,
+    "MFA_BRAND": "MINELLI",
+    "MFA_MFC_CODE": "MINELLI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1231,
+    "MFA_BRAND": "MINI",
+    "MFA_MFC_CODE": "MINI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1234,
+    "MFA_BRAND": "INFINITI",
+    "MFA_MFC_CODE": "INFIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1235,
+    "MFA_BRAND": "OLTCIT",
+    "MFA_MFC_CODE": "OLTCI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1237,
+    "MFA_BRAND": "OSCA",
+    "MFA_MFC_CODE": "OSCA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1238,
+    "MFA_BRAND": "PANOZ",
+    "MFA_MFC_CODE": "PANOZ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1239,
+    "MFA_BRAND": "PANTHER",
+    "MFA_MFC_CODE": "PANTH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1240,
+    "MFA_BRAND": "PAYKAN",
+    "MFA_MFC_CODE": "PAYKA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1241,
+    "MFA_BRAND": "PERODUA",
+    "MFA_MFC_CODE": "PERODUA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1242,
+    "MFA_BRAND": "RANGER",
+    "MFA_MFC_CODE": "RANGER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1244,
+    "MFA_BRAND": "RAYTON FISSORE",
+    "MFA_MFC_CODE": "RAYTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1245,
+    "MFA_BRAND": "BOND",
+    "MFA_MFC_CODE": "BOND",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1246,
+    "MFA_BRAND": "AUSTIN-HEALEY",
+    "MFA_MFC_CODE": "AUSTIN-HEA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1247,
+    "MFA_BRAND": "RILEY",
+    "MFA_MFC_CODE": "RILEY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1248,
+    "MFA_BRAND": "STERLING",
+    "MFA_MFC_CODE": "STERL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1249,
+    "MFA_BRAND": "WOLSELEY",
+    "MFA_MFC_CODE": "WOLSE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1251,
+    "MFA_BRAND": "SAFRAR",
+    "MFA_MFC_CODE": "SAFRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1252,
+    "MFA_BRAND": "SAN",
+    "MFA_MFC_CODE": "SAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1253,
+    "MFA_BRAND": "SAO",
+    "MFA_MFC_CODE": "SAO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1255,
+    "MFA_BRAND": "SHELBY",
+    "MFA_MFC_CODE": "SHELB",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1256,
+    "MFA_BRAND": "SIPANI",
+    "MFA_MFC_CODE": "SIPAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1257,
+    "MFA_BRAND": "SPECTRE",
+    "MFA_MFC_CODE": "SPECT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1258,
+    "MFA_BRAND": "STANDARD",
+    "MFA_MFC_CODE": "STAND",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1259,
+    "MFA_BRAND": "TOFAS",
+    "MFA_MFC_CODE": "TOFAS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1261,
+    "MFA_BRAND": "UAZ",
+    "MFA_MFC_CODE": "UAZ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1262,
+    "MFA_BRAND": "UMM",
+    "MFA_MFC_CODE": "UMM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1263,
+    "MFA_BRAND": "VECTOR",
+    "MFA_MFC_CODE": "VECTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1264,
+    "MFA_BRAND": "VENTURI",
+    "MFA_MFC_CODE": "VENTU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1266,
+    "MFA_BRAND": "WIESMANN",
+    "MFA_MFC_CODE": "WIESMANN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1267,
+    "MFA_BRAND": "YULON",
+    "MFA_MFC_CODE": "YULON",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1268,
+    "MFA_BRAND": "PUCH",
+    "MFA_MFC_CODE": "PUCH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1292,
+    "MFA_BRAND": "LAND ROVER",
+    "MFA_MFC_CODE": "LANDROVER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 1364,
+    "MFA_BRAND": "TRAILOR",
+    "MFA_MFC_CODE": "TRAILOR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3001,
+    "MFA_BRAND": "VEB FZ.-WERKE",
+    "MFA_MFC_CODE": "VEB F",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3003,
+    "MFA_BRAND": "FISSORE",
+    "MFA_MFC_CODE": "FISSO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3004,
+    "MFA_BRAND": "PEGASO",
+    "MFA_MFC_CODE": "PEGAS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 3006,
+    "MFA_BRAND": "LEYLAND-INNOCENTI",
+    "MFA_MFC_CODE": "LEYLAND-IN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3007,
+    "MFA_BRAND": "JEEP VIASA",
+    "MFA_MFC_CODE": "JEEP",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3009,
+    "MFA_BRAND": "MATRA",
+    "MFA_MFC_CODE": "MATRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3010,
+    "MFA_BRAND": "GURGEL",
+    "MFA_MFC_CODE": "GURGEL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3011,
+    "MFA_BRAND": "YUE LOONG",
+    "MFA_MFC_CODE": "YUE LOONG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 3013,
+    "MFA_BRAND": "AMC",
+    "MFA_MFC_CODE": "AMC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10090,
+    "MFA_BRAND": "LANDWIND (JMC)",
+    "MFA_MFC_CODE": "LANDWIND",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10091,
+    "MFA_BRAND": "GEELY",
+    "MFA_MFC_CODE": "GEELY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10138,
+    "MFA_BRAND": "NEW HOLLAND",
+    "MFA_MFC_CODE": "NEWHOLLAND",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10168,
+    "MFA_BRAND": "TEMSA",
+    "MFA_MFC_CODE": "TEMSA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10172,
+    "MFA_BRAND": "VALTRA",
+    "MFA_MFC_CODE": "VALTRA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10208,
+    "MFA_BRAND": "ASÜNA",
+    "MFA_MFC_CODE": "ASUNA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10209,
+    "MFA_BRAND": "AVANTI",
+    "MFA_MFC_CODE": "AVANTI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10210,
+    "MFA_BRAND": "BRICKLIN",
+    "MFA_MFC_CODE": "BRICKLIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10211,
+    "MFA_BRAND": "EXCALIBUR",
+    "MFA_MFC_CODE": "EXCALIBUR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10212,
+    "MFA_BRAND": "LAFORZA",
+    "MFA_MFC_CODE": "LAFORZA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10213,
+    "MFA_BRAND": "MERKUR",
+    "MFA_MFC_CODE": "MERKUR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10214,
+    "MFA_BRAND": "QVALE",
+    "MFA_MFC_CODE": "QVALE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10215,
+    "MFA_BRAND": "SALEEN",
+    "MFA_MFC_CODE": "SALEEN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10216,
+    "MFA_BRAND": "SCION",
+    "MFA_MFC_CODE": "SCION",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10217,
+    "MFA_BRAND": "STUDEBAKER",
+    "MFA_MFC_CODE": "STUDEBAKER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10218,
+    "MFA_BRAND": "SUNBEAM",
+    "MFA_MFC_CODE": "SUNBEAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10239,
+    "MFA_BRAND": "ZHONGHUA(BRILLIANCE)",
+    "MFA_MFC_CODE": "ZHONGHUA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10258,
+    "MFA_BRAND": "SPYKER",
+    "MFA_MFC_CODE": "SPYKER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10263,
+    "MFA_BRAND": "KTM",
+    "MFA_MFC_CODE": "KTM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10278,
+    "MFA_BRAND": "AM GENERAL",
+    "MFA_MFC_CODE": "AM GENERAL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10294,
+    "MFA_BRAND": "GARDNER",
+    "MFA_MFC_CODE": "GARDNER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10297,
+    "MFA_BRAND": "HILLMAN",
+    "MFA_MFC_CODE": "HILLMAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10301,
+    "MFA_BRAND": "ISOTTA FRASCHINI",
+    "MFA_MFC_CODE": "IF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10309,
+    "MFA_BRAND": "PACKARD",
+    "MFA_MFC_CODE": "PACKARD",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10313,
+    "MFA_BRAND": "STANGUELLINI",
+    "MFA_MFC_CODE": "STANGUELLI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10319,
+    "MFA_BRAND": "YUGO",
+    "MFA_MFC_CODE": "YUGO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10349,
+    "MFA_BRAND": "ANCHI",
+    "MFA_MFC_CODE": "ANCHI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10350,
+    "MFA_BRAND": "ANFINI",
+    "MFA_MFC_CODE": "ANFINI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10351,
+    "MFA_BRAND": "BAJAJ TEMPO",
+    "MFA_MFC_CODE": "BAJAJTEMPO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10352,
+    "MFA_BRAND": "FORCE",
+    "MFA_MFC_CODE": "FORCE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10353,
+    "MFA_BRAND": "JEEP (BJC)",
+    "MFA_MFC_CODE": "JEEP BJC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10354,
+    "MFA_BRAND": "CHANGAN (CHANA)",
+    "MFA_MFC_CODE": "CHANGAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10355,
+    "MFA_BRAND": "CHANGHE",
+    "MFA_MFC_CODE": "CHANGHE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10356,
+    "MFA_BRAND": "DONGFENG (DFAC)",
+    "MFA_MFC_CODE": "DFAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10357,
+    "MFA_BRAND": "DONGNAN (SOUEAST)",
+    "MFA_MFC_CODE": "DONGNAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10358,
+    "MFA_BRAND": "ETSONG",
+    "MFA_MFC_CODE": "ETSONG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10359,
+    "MFA_BRAND": "EUNOS",
+    "MFA_MFC_CODE": "EUNOS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10360,
+    "MFA_BRAND": "AUDI (FAW)",
+    "MFA_MFC_CODE": "AUDI FAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10361,
+    "MFA_BRAND": "VW (FAW)",
+    "MFA_MFC_CODE": "VW FAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10364,
+    "MFA_BRAND": "FENGSHEN",
+    "MFA_MFC_CODE": "FENGSHEN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10365,
+    "MFA_BRAND": "FENGXING (DONGFENG )",
+    "MFA_MFC_CODE": "FENGXING",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10366,
+    "MFA_BRAND": "FORD ASIA / OZEANIA",
+    "MFA_MFC_CODE": "FORD A / O",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10367,
+    "MFA_BRAND": "FORTA",
+    "MFA_MFC_CODE": "FORTA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10368,
+    "MFA_BRAND": "HAFEI",
+    "MFA_MFC_CODE": "HAFEI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10369,
+    "MFA_BRAND": "FOTON",
+    "MFA_MFC_CODE": "FOTON",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10370,
+    "MFA_BRAND": "MAZDA (HAINAN)",
+    "MFA_MFC_CODE": "MAZDA HAIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10371,
+    "MFA_BRAND": "HANJIANG",
+    "MFA_MFC_CODE": "HANJIANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10372,
+    "MFA_BRAND": "HARBIN",
+    "MFA_MFC_CODE": "HARBIN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10373,
+    "MFA_BRAND": "HONGQI",
+    "MFA_MFC_CODE": "HONGQI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10374,
+    "MFA_BRAND": "HUALI",
+    "MFA_MFC_CODE": "HUALI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10375,
+    "MFA_BRAND": "JAC",
+    "MFA_MFC_CODE": "JAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10376,
+    "MFA_BRAND": "WULING",
+    "MFA_MFC_CODE": "WULING",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10377,
+    "MFA_BRAND": "FUQI",
+    "MFA_MFC_CODE": "FUQI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10389,
+    "MFA_BRAND": "CHERY",
+    "MFA_MFC_CODE": "CHERY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10390,
+    "MFA_BRAND": "JINBEI (BRILLIANCE)",
+    "MFA_MFC_CODE": "JINBEI BRI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10391,
+    "MFA_BRAND": "CHANGFENG",
+    "MFA_MFC_CODE": "CHANGFENG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10392,
+    "MFA_BRAND": "FAW TIANJIN",
+    "MFA_MFC_CODE": "FAW TJ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10393,
+    "MFA_BRAND": "CITROEN (DF-PSA)",
+    "MFA_MFC_CODE": "CITROEN DF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10403,
+    "MFA_BRAND": "DADI",
+    "MFA_MFC_CODE": "DADI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10404,
+    "MFA_BRAND": "GONOW",
+    "MFA_MFC_CODE": "GONOW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10405,
+    "MFA_BRAND": "GREAT WALL",
+    "MFA_MFC_CODE": "GREAT WALL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10406,
+    "MFA_BRAND": "MITSUOKA",
+    "MFA_MFC_CODE": "MITSUOKA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10407,
+    "MFA_BRAND": "MAPLE (SMA)",
+    "MFA_MFC_CODE": "MAPLE SMA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10408,
+    "MFA_BRAND": "BAOLONG",
+    "MFA_MFC_CODE": "BAOLONG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10409,
+    "MFA_BRAND": "JIEFANG",
+    "MFA_MFC_CODE": "JIEFANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10410,
+    "MFA_BRAND": "JIANGNAN",
+    "MFA_MFC_CODE": "JIANGNAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10411,
+    "MFA_BRAND": "FAW JILIN",
+    "MFA_MFC_CODE": "FAW JILIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10412,
+    "MFA_BRAND": "NISSAN (ZHENGZHOU)",
+    "MFA_MFC_CODE": "NISSAN ZZ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10413,
+    "MFA_BRAND": "ZHONGXING (ZTE)",
+    "MFA_MFC_CODE": "ZHONGXING",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10415,
+    "MFA_BRAND": "TONGTIAN",
+    "MFA_MFC_CODE": "TONGTIAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10426,
+    "MFA_BRAND": "FAP",
+    "MFA_MFC_CODE": "FAP",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10429,
+    "MFA_BRAND": "IRIZAR",
+    "MFA_MFC_CODE": "IRIZAR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10431,
+    "MFA_BRAND": "OTOKAR",
+    "MFA_MFC_CODE": "OTOKAR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10433,
+    "MFA_BRAND": "SOLARIS",
+    "MFA_MFC_CODE": "SOLARIS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10444,
+    "MFA_BRAND": "SHIBAURA",
+    "MFA_MFC_CODE": "SHIBAURA",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10537,
+    "MFA_BRAND": "VW (SVW)",
+    "MFA_MFC_CODE": "VW SVW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10538,
+    "MFA_BRAND": "HAIMA (FAW)",
+    "MFA_MFC_CODE": "HAIMA(FAW)",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10540,
+    "MFA_BRAND": "CHENGLONG",
+    "MFA_MFC_CODE": "CHENGLONG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10542,
+    "MFA_BRAND": "JMC",
+    "MFA_MFC_CODE": "JMC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10548,
+    "MFA_BRAND": "PININFARINA",
+    "MFA_MFC_CODE": "PININFARIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10549,
+    "MFA_BRAND": "LTI",
+    "MFA_MFC_CODE": "LTI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10550,
+    "MFA_BRAND": "TIANMA",
+    "MFA_MFC_CODE": "TIANMA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10571,
+    "MFA_BRAND": "DERWAYS",
+    "MFA_MFC_CODE": "DERWAYS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10572,
+    "MFA_BRAND": "NAZA",
+    "MFA_MFC_CODE": "NAZA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10573,
+    "MFA_BRAND": "BAW",
+    "MFA_MFC_CODE": "BAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10575,
+    "MFA_BRAND": "XINCHEN ENGINE (XCE)",
+    "MFA_MFC_CODE": "XCE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10577,
+    "MFA_BRAND": "MWM INTERNATIONAL",
+    "MFA_MFC_CODE": "MWM INTERN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10578,
+    "MFA_BRAND": "BRILLIANCE",
+    "MFA_MFC_CODE": "BRILLIANCE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10586,
+    "MFA_BRAND": "IRAN KHODRO (IKCO)",
+    "MFA_MFC_CODE": "IKCO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10588,
+    "MFA_BRAND": "LIFAN",
+    "MFA_MFC_CODE": "LIFAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10624,
+    "MFA_BRAND": "BYD",
+    "MFA_MFC_CODE": "BYD",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10625,
+    "MFA_BRAND": "HYUNDAI (BEIJING)",
+    "MFA_MFC_CODE": "HYUNDAI BJ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10626,
+    "MFA_BRAND": "BMW (BRILLIANCE)",
+    "MFA_MFC_CODE": "BMW BRIL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10627,
+    "MFA_BRAND": "FORD (CHANGAN)",
+    "MFA_MFC_CODE": "FORD CHANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10628,
+    "MFA_BRAND": "HONDA (DONGFENG)",
+    "MFA_MFC_CODE": "HONDA DF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10629,
+    "MFA_BRAND": "KIA (DYK)",
+    "MFA_MFC_CODE": "KIA DYK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10630,
+    "MFA_BRAND": "HYUNDAI (HUATAI)",
+    "MFA_MFC_CODE": "HYUNDAI HU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10631,
+    "MFA_BRAND": "HONDA (GAC)",
+    "MFA_MFC_CODE": "HONDA GAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10632,
+    "MFA_BRAND": "TOYOTA (GAC)",
+    "MFA_MFC_CODE": "TOYOTA GAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10633,
+    "MFA_BRAND": "FIAT (NANJING)",
+    "MFA_MFC_CODE": "FIAT NANJI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10634,
+    "MFA_BRAND": "NAC IVECO (NAVECO)",
+    "MFA_MFC_CODE": "NAVECO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10635,
+    "MFA_BRAND": "MG (NANJING)",
+    "MFA_MFC_CODE": "MG NANJING",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10638,
+    "MFA_BRAND": "BUICK (SGM)",
+    "MFA_MFC_CODE": "BUICK SGM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10639,
+    "MFA_BRAND": "TOYOTA (FAW)",
+    "MFA_MFC_CODE": "TOYOTA FAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10640,
+    "MFA_BRAND": "MAZDA (FAW)",
+    "MFA_MFC_CODE": "MAZDA FAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10641,
+    "MFA_BRAND": "QINGLING",
+    "MFA_MFC_CODE": "QINGLING",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10642,
+    "MFA_BRAND": "WULING (SGMW)",
+    "MFA_MFC_CODE": "WULINGSGMW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10643,
+    "MFA_BRAND": "NISSAN (DONGFENG)",
+    "MFA_MFC_CODE": "NISSAN DF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10644,
+    "MFA_BRAND": "BEIJING BENZ (BBDC)",
+    "MFA_MFC_CODE": "BBDC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10645,
+    "MFA_BRAND": "SUZUKI (CHANGAN)",
+    "MFA_MFC_CODE": "SUZUKI CHA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10654,
+    "MFA_BRAND": "DONGFENG XIAOKANG",
+    "MFA_MFC_CODE": "DFXIAOKANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10655,
+    "MFA_BRAND": "SOYAT",
+    "MFA_MFC_CODE": "SOYAT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10656,
+    "MFA_BRAND": "POLARSUN AUTOMOBILE",
+    "MFA_MFC_CODE": "POLARSUN A",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10657,
+    "MFA_BRAND": "SAIC HUIZHONG",
+    "MFA_MFC_CODE": "SAIC HUIZH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10658,
+    "MFA_BRAND": "SHUANGHUAN",
+    "MFA_MFC_CODE": "SHUANGHUAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10659,
+    "MFA_BRAND": "TIANQI MEIYA AUTO",
+    "MFA_MFC_CODE": "TIANQI M A",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10660,
+    "MFA_BRAND": "GOLDEN DRAGON",
+    "MFA_MFC_CODE": "GOLDEN DRA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10661,
+    "MFA_BRAND": "UFO (FEIDI)",
+    "MFA_MFC_CODE": "UFO FEIDI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10662,
+    "MFA_BRAND": "ZOTYE",
+    "MFA_MFC_CODE": "ZOTYE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10688,
+    "MFA_BRAND": "XINKAI",
+    "MFA_MFC_CODE": "XINKAI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10692,
+    "MFA_BRAND": "BAIYUN",
+    "MFA_MFC_CODE": "BAIYUN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10693,
+    "MFA_BRAND": "WANFENG",
+    "MFA_MFC_CODE": "WANFENG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10695,
+    "MFA_BRAND": "YUEJIN",
+    "MFA_MFC_CODE": "YUEJIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10696,
+    "MFA_BRAND": "YUNQUE",
+    "MFA_MFC_CODE": "YUNQUE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10698,
+    "MFA_BRAND": "GAC",
+    "MFA_MFC_CODE": "GAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10701,
+    "MFA_BRAND": "SUZUKI (CHANGHE)",
+    "MFA_MFC_CODE": "SUZUKI CHH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10702,
+    "MFA_BRAND": "AUX",
+    "MFA_MFC_CODE": "AUX",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10704,
+    "MFA_BRAND": "ROEWE (SAIC)",
+    "MFA_MFC_CODE": "ROEWE SAIC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10710,
+    "MFA_BRAND": "RENAULT SAMSUNG",
+    "MFA_MFC_CODE": "RSM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10769,
+    "MFA_BRAND": "EUROPESTAR",
+    "MFA_MFC_CODE": "EUROPESTAR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10775,
+    "MFA_BRAND": "SHUGUANG",
+    "MFA_MFC_CODE": "SHUGUANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10776,
+    "MFA_BRAND": "DAIHATSU (FAW)",
+    "MFA_MFC_CODE": "DAIHAT FAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10778,
+    "MFA_BRAND": "HSV",
+    "MFA_MFC_CODE": "HSV",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10784,
+    "MFA_BRAND": "PLAXTON",
+    "MFA_MFC_CODE": "PLAXTON",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 10786,
+    "MFA_BRAND": "RELY",
+    "MFA_MFC_CODE": "RELY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10787,
+    "MFA_BRAND": "RIICH",
+    "MFA_MFC_CODE": "RIICH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10788,
+    "MFA_BRAND": "KARRY",
+    "MFA_MFC_CODE": "KARRY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10799,
+    "MFA_BRAND": "FPV",
+    "MFA_MFC_CODE": "FPV",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10802,
+    "MFA_BRAND": "MAXUS (SAIC MOTOR)",
+    "MFA_MFC_CODE": "MAXUS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10830,
+    "MFA_BRAND": "TESLA",
+    "MFA_MFC_CODE": "TESLA M.",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10834,
+    "MFA_BRAND": "EMGRAND (GEELY)",
+    "MFA_MFC_CODE": "EMGRAND",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10945,
+    "MFA_BRAND": "TAZZARI",
+    "MFA_MFC_CODE": "TAZZARI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10997,
+    "MFA_BRAND": "ARTEGA",
+    "MFA_MFC_CODE": "ARTEGA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 10999,
+    "MFA_BRAND": "DR",
+    "MFA_MFC_CODE": "DR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11000,
+    "MFA_BRAND": "GRUAU",
+    "MFA_MFC_CODE": "GRUAU",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11003,
+    "MFA_BRAND": "ICML",
+    "MFA_MFC_CODE": "ICML",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11010,
+    "MFA_BRAND": "THINK",
+    "MFA_MFC_CODE": "THINK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11019,
+    "MFA_BRAND": "MERCEDES-BENZ (FJDA)",
+    "MFA_MFC_CODE": "MERCE FJDA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11020,
+    "MFA_BRAND": "DOOSAN",
+    "MFA_MFC_CODE": "DOOSAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11023,
+    "MFA_BRAND": "ANADOL",
+    "MFA_MFC_CODE": "ANADOL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11024,
+    "MFA_BRAND": "CHEVROLET (SGM)",
+    "MFA_MFC_CODE": "CHEVR  SGM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11025,
+    "MFA_BRAND": "CADILLAC (SGM)",
+    "MFA_MFC_CODE": "CADILL SGM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11027,
+    "MFA_BRAND": "SKODA (SVW )",
+    "MFA_MFC_CODE": "SKODA SVW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11028,
+    "MFA_BRAND": "PEUGEOT (DF-PSA)",
+    "MFA_MFC_CODE": "PEUGEOT DF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11029,
+    "MFA_BRAND": "MAZDA (CHANGAN)",
+    "MFA_MFC_CODE": "MAZDA CHAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11030,
+    "MFA_BRAND": "VOLVO (CHANGAN)",
+    "MFA_MFC_CODE": "VOLVO CHAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11046,
+    "MFA_BRAND": "MARUTI SUZUKI",
+    "MFA_MFC_CODE": "MARUTSU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11048,
+    "MFA_BRAND": "MAZ-MAN",
+    "MFA_MFC_CODE": "MAZ-MAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11051,
+    "MFA_BRAND": "MAHINDRA RENAULT",
+    "MFA_MFC_CODE": "MAHINDRA R",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11052,
+    "MFA_BRAND": "REVA",
+    "MFA_MFC_CODE": "REVA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11053,
+    "MFA_BRAND": "MITSUBISHI (BJC)",
+    "MFA_MFC_CODE": "MITSU BJC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11060,
+    "MFA_BRAND": "HAWTAI",
+    "MFA_MFC_CODE": "HAWTAI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11108,
+    "MFA_BRAND": "FAW",
+    "MFA_MFC_CODE": "FAW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11123,
+    "MFA_BRAND": "NOBLE",
+    "MFA_MFC_CODE": "NOBLE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11143,
+    "MFA_BRAND": "MERCEDES-BENZ (BBDC)",
+    "MFA_MFC_CODE": "MERCE BBDC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11144,
+    "MFA_BRAND": "CHRYSLER (BBDC)",
+    "MFA_MFC_CODE": "CHRYS BBDC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11146,
+    "MFA_BRAND": "MITSUBISHI (BBDC)",
+    "MFA_MFC_CODE": "MITSU BBDC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11148,
+    "MFA_BRAND": "CHEVROLET (SGMW)",
+    "MFA_MFC_CODE": "CHEVR SGMW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11149,
+    "MFA_BRAND": "EFFA",
+    "MFA_MFC_CODE": "EFFA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11153,
+    "MFA_BRAND": "FORD (JMC)",
+    "MFA_MFC_CODE": "FORD JMC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11155,
+    "MFA_BRAND": "MITSUBISHI (SOUEAST)",
+    "MFA_MFC_CODE": "MITSUB SOU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11156,
+    "MFA_BRAND": "DONGFENG",
+    "MFA_MFC_CODE": "DONGFENG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11158,
+    "MFA_BRAND": "LOTUS (YOUNGMAN)",
+    "MFA_MFC_CODE": "LOTUS_YOUN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11174,
+    "MFA_BRAND": "INOKOM",
+    "MFA_MFC_CODE": "INOKOM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11175,
+    "MFA_BRAND": "CHAMONIX",
+    "MFA_MFC_CODE": "CHAMONIX",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11176,
+    "MFA_BRAND": "LOBINI",
+    "MFA_MFC_CODE": "LOBINI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11177,
+    "MFA_BRAND": "TAC",
+    "MFA_MFC_CODE": "TAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11178,
+    "MFA_BRAND": "TROLLER",
+    "MFA_MFC_CODE": "TROLLER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11184,
+    "MFA_BRAND": "ALLGAIER",
+    "MFA_MFC_CODE": "ALLGAIER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11185,
+    "MFA_BRAND": "BUCHER",
+    "MFA_MFC_CODE": "BUCHER GUY",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11186,
+    "MFA_BRAND": "RAM",
+    "MFA_MFC_CODE": "RAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11193,
+    "MFA_BRAND": "WORKHORSE",
+    "MFA_MFC_CODE": "WORKHORSE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11194,
+    "MFA_BRAND": "GLEAGLE (GEELY)",
+    "MFA_MFC_CODE": "GLEAGLE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11198,
+    "MFA_BRAND": "AGCO SISU POWER",
+    "MFA_MFC_CODE": "AGCOSISUP",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11201,
+    "MFA_BRAND": "ENGLON (GEELY)",
+    "MFA_MFC_CODE": "ENGLON",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11206,
+    "MFA_BRAND": "ZF",
+    "MFA_MFC_CODE": "ZF ACHSEN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11213,
+    "MFA_BRAND": "KINGSTAR",
+    "MFA_MFC_CODE": "KINGSTAR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11216,
+    "MFA_BRAND": "CODA",
+    "MFA_MFC_CODE": "CODA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11226,
+    "MFA_BRAND": "BHARATBENZ",
+    "MFA_MFC_CODE": "BHARATBENZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11235,
+    "MFA_BRAND": "FISKER",
+    "MFA_MFC_CODE": "FISKER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11237,
+    "MFA_BRAND": "PYEONGHWA (PMC)",
+    "MFA_MFC_CODE": "PYEONGHWA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11239,
+    "MFA_BRAND": "LUXGEN",
+    "MFA_MFC_CODE": "LUXGEN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11249,
+    "MFA_BRAND": "VPG",
+    "MFA_MFC_CODE": "VPG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11258,
+    "MFA_BRAND": "FIAT (GAC)",
+    "MFA_MFC_CODE": "FIAT_GAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11259,
+    "MFA_BRAND": "BESTURN (FAW)",
+    "MFA_MFC_CODE": "BESTURN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11260,
+    "MFA_BRAND": "URALAZ",
+    "MFA_MFC_CODE": "URALAZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11261,
+    "MFA_BRAND": "BAOJUN (SGMW)",
+    "MFA_MFC_CODE": "BAOJUN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11267,
+    "MFA_BRAND": "C.A.M",
+    "MFA_MFC_CODE": "CAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11268,
+    "MFA_BRAND": "FODAY",
+    "MFA_MFC_CODE": "FODAY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11269,
+    "MFA_BRAND": "CMC",
+    "MFA_MFC_CODE": "CMC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11270,
+    "MFA_BRAND": "BAIC",
+    "MFA_MFC_CODE": "BAIC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11291,
+    "MFA_BRAND": "MASTRETTA",
+    "MFA_MFC_CODE": "MASTRETTA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11293,
+    "MFA_BRAND": "YCACO",
+    "MFA_MFC_CODE": "YCACO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11294,
+    "MFA_BRAND": "VALX",
+    "MFA_MFC_CODE": "VALX",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11296,
+    "MFA_BRAND": "VENUCIA",
+    "MFA_MFC_CODE": "VENUCIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11302,
+    "MFA_BRAND": "KING LONG",
+    "MFA_MFC_CODE": "KING LONG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11303,
+    "MFA_BRAND": "VISEON",
+    "MFA_MFC_CODE": "VISEON",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11313,
+    "MFA_BRAND": "WEICHAI",
+    "MFA_MFC_CODE": "WEICHAI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11314,
+    "MFA_BRAND": "YUCHAI",
+    "MFA_MFC_CODE": "YUCHAI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11315,
+    "MFA_BRAND": "YANGCHAI",
+    "MFA_MFC_CODE": "YANGCHAI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11316,
+    "MFA_BRAND": "YAGMUR",
+    "MFA_MFC_CODE": "YAGMUR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11317,
+    "MFA_BRAND": "PASQUALI",
+    "MFA_MFC_CODE": "PASQUALI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11318,
+    "MFA_BRAND": "FERRARI",
+    "MFA_MFC_CODE": "FERRARI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11319,
+    "MFA_BRAND": "CARON",
+    "MFA_MFC_CODE": "CARON",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11320,
+    "MFA_BRAND": "CHALLENGER",
+    "MFA_MFC_CODE": "CHALLENGER",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11324,
+    "MFA_BRAND": "DONGFENG (DFAM)",
+    "MFA_MFC_CODE": "DFAM",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11325,
+    "MFA_BRAND": "DURSO",
+    "MFA_MFC_CODE": "DURSO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11326,
+    "MFA_BRAND": "ARMATRAC",
+    "MFA_MFC_CODE": "ARMATRAC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11327,
+    "MFA_BRAND": "BM TRACTORS",
+    "MFA_MFC_CODE": "BM TRACTOR",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11328,
+    "MFA_BRAND": "BRANSON TRACTORS",
+    "MFA_MFC_CODE": "BRANSON_T",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11330,
+    "MFA_BRAND": "KIOTI",
+    "MFA_MFC_CODE": "KIOTI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11332,
+    "MFA_BRAND": "KUKJE MACHINERY",
+    "MFA_MFC_CODE": "KUKJE MACH",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11334,
+    "MFA_BRAND": "MITSUBISHI (GAC)",
+    "MFA_MFC_CODE": "MITSU_GAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11335,
+    "MFA_BRAND": "MG (SAIC)",
+    "MFA_MFC_CODE": "MG SAIC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11336,
+    "MFA_BRAND": "QOROS",
+    "MFA_MFC_CODE": "QOROS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11345,
+    "MFA_BRAND": "SHAANXI",
+    "MFA_MFC_CODE": "SHAANXI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11346,
+    "MFA_BRAND": "FAW JIEFANG",
+    "MFA_MFC_CODE": "FAWJIEFANG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11349,
+    "MFA_BRAND": "EMAC",
+    "MFA_MFC_CODE": "EMAC",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11351,
+    "MFA_BRAND": "ABARTH",
+    "MFA_MFC_CODE": "ABARTH",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11352,
+    "MFA_BRAND": "SINOTRUK (CNHTC)",
+    "MFA_MFC_CODE": "SINOTRUK",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11369,
+    "MFA_BRAND": "DAEDONG",
+    "MFA_MFC_CODE": "DAEDONG",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11410,
+    "MFA_BRAND": "HAIMA (ZHENGZHOU)",
+    "MFA_MFC_CODE": "HAIMA(ZZ)",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11411,
+    "MFA_BRAND": "MC CORMICK",
+    "MFA_MFC_CODE": "MCCORMICK",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11412,
+    "MFA_BRAND": "BELARUS",
+    "MFA_MFC_CODE": "BELARUS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11420,
+    "MFA_BRAND": "WEITUO",
+    "MFA_MFC_CODE": "WEITUO",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11466,
+    "MFA_BRAND": "HAVAL",
+    "MFA_MFC_CODE": "HAVAL",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11469,
+    "MFA_BRAND": "ANDORIA",
+    "MFA_MFC_CODE": "ANDORIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11472,
+    "MFA_BRAND": "AL-GHAZI",
+    "MFA_MFC_CODE": "AL-GHAZI",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11490,
+    "MFA_BRAND": "JONWAY",
+    "MFA_MFC_CODE": "JONWAY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11494,
+    "MFA_BRAND": "GAC GONOW",
+    "MFA_MFC_CODE": "GACGONOW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11496,
+    "MFA_BRAND": "DS (CAPSA)",
+    "MFA_MFC_CODE": "DS(CAPSA)",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11499,
+    "MFA_BRAND": "YEMA AUTO",
+    "MFA_MFC_CODE": "YEMA AUTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11507,
+    "MFA_BRAND": "SRT",
+    "MFA_MFC_CODE": "SRT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11512,
+    "MFA_BRAND": "STREETSCOOTER",
+    "MFA_MFC_CODE": "STREETSCOO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11526,
+    "MFA_BRAND": "ZMZ",
+    "MFA_MFC_CODE": "ZMZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11530,
+    "MFA_BRAND": "ZHINUO (ZINORO)",
+    "MFA_MFC_CODE": "ZINORO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11533,
+    "MFA_BRAND": "BAIC HUANSU",
+    "MFA_MFC_CODE": "BAICHUANSU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11545,
+    "MFA_BRAND": "BUELL MOTORCYCLES",
+    "MFA_MFC_CODE": "BUELL MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11546,
+    "MFA_BRAND": "APRILIA MOTORCYCLES",
+    "MFA_MFC_CODE": "APRILIA MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11547,
+    "MFA_BRAND": "BENELLI MOTORCYCLES",
+    "MFA_MFC_CODE": "BENELLI MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11548,
+    "MFA_BRAND": "CAGIVA MOTORCYCLES",
+    "MFA_MFC_CODE": "CAGIVA MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11549,
+    "MFA_BRAND": "DAELIM MOTORCYCLES",
+    "MFA_MFC_CODE": "DAELIM MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11550,
+    "MFA_BRAND": "DUCATI MOTORCYCLES",
+    "MFA_MFC_CODE": "DUCATI MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11551,
+    "MFA_BRAND": "GILERA MOTORCYCLES",
+    "MFA_MFC_CODE": "GILERA MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11552,
+    "MFA_BRAND": "HARLEY-DAVIDSON MC",
+    "MFA_MFC_CODE": "HARLEY-DAV",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11553,
+    "MFA_BRAND": "HYOSUNG MOTORCYCLES",
+    "MFA_MFC_CODE": "HYOSUNG MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11554,
+    "MFA_BRAND": "KAWASAKI MOTORCYCLES",
+    "MFA_MFC_CODE": "KAWASAKI M",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11555,
+    "MFA_BRAND": "KTM MOTORCYCLES",
+    "MFA_MFC_CODE": "KTM MOTORC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11556,
+    "MFA_BRAND": "KYMCO MOTORCYCLES",
+    "MFA_MFC_CODE": "KYMCO MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11557,
+    "MFA_BRAND": "MALAGUTI MOTORCYCLES",
+    "MFA_MFC_CODE": "MALAGUTI M",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11558,
+    "MFA_BRAND": "MBK MOTORCYCLES",
+    "MFA_MFC_CODE": "MBK MOTORC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11559,
+    "MFA_BRAND": "MOTO GUZZI MC",
+    "MFA_MFC_CODE": "MOTO GUZZI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11560,
+    "MFA_BRAND": "MZ MOTORCYCLES",
+    "MFA_MFC_CODE": "MZ MOTORCY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11561,
+    "MFA_BRAND": "SACHS MOTORCYCLES",
+    "MFA_MFC_CODE": "SACHS MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11562,
+    "MFA_BRAND": "SIMSON MOTORCYCLES",
+    "MFA_MFC_CODE": "SIMSON MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11563,
+    "MFA_BRAND": "SOLO MOTORCYCLES",
+    "MFA_MFC_CODE": "SOLO MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11564,
+    "MFA_BRAND": "PIAGGIO MOTORCYCLES",
+    "MFA_MFC_CODE": "PIAGGIO MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11565,
+    "MFA_BRAND": "YAMAHA MOTORCYCLES",
+    "MFA_MFC_CODE": "YAMAHA MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11566,
+    "MFA_BRAND": "VESPA MOTORCYCLES",
+    "MFA_MFC_CODE": "VESPA MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11567,
+    "MFA_BRAND": "KREIDLER MOTORCYCLES",
+    "MFA_MFC_CODE": "KREIDLER M",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11568,
+    "MFA_BRAND": "DERBI MOTORCYCLES",
+    "MFA_MFC_CODE": "DERBI MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11569,
+    "MFA_BRAND": "FANTIC MOTORCYCLES",
+    "MFA_MFC_CODE": "FANTIC MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11570,
+    "MFA_BRAND": "ITALJET MOTORCYCLES",
+    "MFA_MFC_CODE": "ITALJET MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11571,
+    "MFA_BRAND": "JAWA MOTORCYCLES",
+    "MFA_MFC_CODE": "JAWA MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11572,
+    "MFA_BRAND": "LAVERDA MOTORCYCLES",
+    "MFA_MFC_CODE": "LAVERDA MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11573,
+    "MFA_BRAND": "MAICO MOTORCYCLES",
+    "MFA_MFC_CODE": "MAICO MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11574,
+    "MFA_BRAND": "MOTO-MORINI MC",
+    "MFA_MFC_CODE": "MOTO-MORIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11575,
+    "MFA_BRAND": "PGO MOTORCYCLES",
+    "MFA_MFC_CODE": "PGO MOTORC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11576,
+    "MFA_BRAND": "SANGLAS MOTORCYCLES",
+    "MFA_MFC_CODE": "SANGLAS MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11577,
+    "MFA_BRAND": "TORNAX MOTORCYCLES",
+    "MFA_MFC_CODE": "TORNAX MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11578,
+    "MFA_BRAND": "BMW MOTORCYCLES",
+    "MFA_MFC_CODE": "BMW MOTORC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11579,
+    "MFA_BRAND": "HONDA MOTORCYCLES",
+    "MFA_MFC_CODE": "HONDA MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11580,
+    "MFA_BRAND": "PEUGEOT MOTORCYCLES",
+    "MFA_MFC_CODE": "PEUGEOT MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11581,
+    "MFA_BRAND": "PUCH MOTORCYCLES",
+    "MFA_MFC_CODE": "PUCH MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11582,
+    "MFA_BRAND": "SUZUKI MOTORCYCLES",
+    "MFA_MFC_CODE": "SUZUKI MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11583,
+    "MFA_BRAND": "TRIUMPH MOTORCYCLES",
+    "MFA_MFC_CODE": "TRIUMPH MO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11584,
+    "MFA_BRAND": "HERCULES MOTORCYCLES",
+    "MFA_MFC_CODE": "HERCULES M",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11586,
+    "MFA_BRAND": "DENZA",
+    "MFA_MFC_CODE": "DENZA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11649,
+    "MFA_BRAND": "RUF",
+    "MFA_MFC_CODE": "RUF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11658,
+    "MFA_BRAND": "BRABUS",
+    "MFA_MFC_CODE": "BRABUS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11659,
+    "MFA_BRAND": "BUFORI",
+    "MFA_MFC_CODE": "BUFORI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11660,
+    "MFA_BRAND": "KOENIGSEGG",
+    "MFA_MFC_CODE": "KOENIGSEGG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11661,
+    "MFA_BRAND": "PAGANI",
+    "MFA_MFC_CODE": "PAGANI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11664,
+    "MFA_BRAND": "VOLVO ASIA",
+    "MFA_MFC_CODE": "VOLVO ASIA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11666,
+    "MFA_BRAND": "YINGZHI",
+    "MFA_MFC_CODE": "YINGZHI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11673,
+    "MFA_BRAND": "HIGER",
+    "MFA_MFC_CODE": "HIGER",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11674,
+    "MFA_BRAND": "CHTC AUTO",
+    "MFA_MFC_CODE": "CHTC AUTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11676,
+    "MFA_BRAND": "JINCHENG",
+    "MFA_MFC_CODE": "JINCHENG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11677,
+    "MFA_BRAND": "JOYLONG",
+    "MFA_MFC_CODE": "JOYLONG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11678,
+    "MFA_BRAND": "KAWEI AUTO",
+    "MFA_MFC_CODE": "KAWEI AUTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11679,
+    "MFA_BRAND": "KAVZ",
+    "MFA_MFC_CODE": "KAVZ",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11684,
+    "MFA_BRAND": "LLOYD",
+    "MFA_MFC_CODE": "LLOYD",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11708,
+    "MFA_BRAND": "INFINITI (Dongfeng)",
+    "MFA_MFC_CODE": "INFINITIDF",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11711,
+    "MFA_BRAND": "COWIN",
+    "MFA_MFC_CODE": "COWIN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11716,
+    "MFA_BRAND": "MICROCAR",
+    "MFA_MFC_CODE": "MICROCAR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11728,
+    "MFA_BRAND": "LML MOTORCYCLES",
+    "MFA_MFC_CODE": "LML",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11735,
+    "MFA_BRAND": "AGRALE MOTORCYCLES",
+    "MFA_MFC_CODE": "AGRALE MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11736,
+    "MFA_BRAND": "BRANDY MOTORCYCLES",
+    "MFA_MFC_CODE": "BRANDY MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11737,
+    "MFA_BRAND": "DAFRA MOTORS MOTORCY",
+    "MFA_MFC_CODE": "DAFRA MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11738,
+    "MFA_BRAND": "HUSQVARNA MOTORCYCLE",
+    "MFA_MFC_CODE": "HUSQVARNA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11739,
+    "MFA_BRAND": "KASINSKI MOTORCYCLES",
+    "MFA_MFC_CODE": "KASINSKIMC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11740,
+    "MFA_BRAND": "MV AGUSTA MOTORCYCLE",
+    "MFA_MFC_CODE": "MV AGUS MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11741,
+    "MFA_BRAND": "TRAXX MOTORCYCLES",
+    "MFA_MFC_CODE": "TRAXX MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11742,
+    "MFA_BRAND": "SYM MOTORCYCLES",
+    "MFA_MFC_CODE": "SYM MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11752,
+    "MFA_BRAND": "HUASONG",
+    "MFA_MFC_CODE": "HUASONG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11753,
+    "MFA_BRAND": "VICTORY AUTO",
+    "MFA_MFC_CODE": "VICTORYAUT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11754,
+    "MFA_BRAND": "FQT MOTOR",
+    "MFA_MFC_CODE": "FQT MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11755,
+    "MFA_BRAND": "HUANGHAI",
+    "MFA_MFC_CODE": "HUANGHAI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11757,
+    "MFA_BRAND": "SAMSUNG",
+    "MFA_MFC_CODE": "SAMSUNG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11761,
+    "MFA_BRAND": "DONGFENG FENGDU",
+    "MFA_MFC_CODE": "DF FENGDU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11762,
+    "MFA_BRAND": "KAMA",
+    "MFA_MFC_CODE": "KAMA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11763,
+    "MFA_BRAND": "BAIC WEIWANG",
+    "MFA_MFC_CODE": "BAIC WW",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11764,
+    "MFA_BRAND": "DAYUN",
+    "MFA_MFC_CODE": "DAYUN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11765,
+    "MFA_BRAND": "HENGTONG",
+    "MFA_MFC_CODE": "HENGTONG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11766,
+    "MFA_BRAND": "DFSK",
+    "MFA_MFC_CODE": "DFSK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11770,
+    "MFA_BRAND": "SHACMAN",
+    "MFA_MFC_CODE": "SHACMAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11774,
+    "MFA_BRAND": "NDY",
+    "MFA_MFC_CODE": "NDY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11779,
+    "MFA_BRAND": "LAND ROVER (CHERY)",
+    "MFA_MFC_CODE": "LR CHERY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11784,
+    "MFA_BRAND": "HUSABERG MOTORCYCLES",
+    "MFA_MFC_CODE": "HUSABERG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11785,
+    "MFA_BRAND": "ECM MOTORCYCLES",
+    "MFA_MFC_CODE": "ECM MOTORC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11786,
+    "MFA_BRAND": "GASGAS MOTORCYCLES",
+    "MFA_MFC_CODE": "GASGAS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11787,
+    "MFA_BRAND": "REX MOTORCYCLES",
+    "MFA_MFC_CODE": "REX MOTORC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11788,
+    "MFA_BRAND": "MAXXFORCE",
+    "MFA_MFC_CODE": "MAXXFORCE",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11789,
+    "MFA_BRAND": "TAGAZ",
+    "MFA_MFC_CODE": "TAGAZ",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11796,
+    "MFA_BRAND": "SUNDOWN MOTORCYCLES",
+    "MFA_MFC_CODE": "SUNDOWN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11807,
+    "MFA_BRAND": "VAM",
+    "MFA_MFC_CODE": "VAM",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11811,
+    "MFA_BRAND": "HMRacing MOTORCYCLES",
+    "MFA_MFC_CODE": "HM RACING",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11812,
+    "MFA_BRAND": "BETA MOTORCYCLES",
+    "MFA_MFC_CODE": "BETA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11816,
+    "MFA_BRAND": "CALOI MOTORCYCLES",
+    "MFA_MFC_CODE": "CALOI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11817,
+    "MFA_BRAND": "HUAYANG",
+    "MFA_MFC_CODE": "HUAYANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11819,
+    "MFA_BRAND": "ZERO MOTORCYCLES",
+    "MFA_MFC_CODE": "ZERO MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11821,
+    "MFA_BRAND": "VICTORY MOTORCYCLES",
+    "MFA_MFC_CODE": "VICTORY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11822,
+    "MFA_BRAND": "INDIAN MOTORCYCLES",
+    "MFA_MFC_CODE": "INDIAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11823,
+    "MFA_BRAND": "WUYANG MOTORCYCLES",
+    "MFA_MFC_CODE": "WUYANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11825,
+    "MFA_BRAND": "MOTOBI MOTORCYCLES",
+    "MFA_MFC_CODE": "MOTOBI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11828,
+    "MFA_BRAND": "AEON MOTORCYCLES",
+    "MFA_MFC_CODE": "AEON",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11843,
+    "MFA_BRAND": "QUADRO MOTORCYCLES",
+    "MFA_MFC_CODE": "QUADRO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11864,
+    "MFA_BRAND": "AMAZONAS MOTORCYCLES",
+    "MFA_MFC_CODE": "AMAZONAS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11865,
+    "MFA_BRAND": "BIMOTA MOTORCYCLES",
+    "MFA_MFC_CODE": "BIMOTA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11866,
+    "MFA_BRAND": "DAYANG MOTORCYCLES",
+    "MFA_MFC_CODE": "DAYANG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11867,
+    "MFA_BRAND": "GARINNI MOTORCYCLES",
+    "MFA_MFC_CODE": "GARINNI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11868,
+    "MFA_BRAND": "HAOBAO MOTORCYCLES",
+    "MFA_MFC_CODE": "HAOBAO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11869,
+    "MFA_BRAND": "HARTFORD MOTORCYCLES",
+    "MFA_MFC_CODE": "HARTFORD",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11870,
+    "MFA_BRAND": "IROS MOTORCYCLES",
+    "MFA_MFC_CODE": "IROS MOTOS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11871,
+    "MFA_BRAND": "JOHNNY PAG MC",
+    "MFA_MFC_CODE": "JOHNNY PAG",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11872,
+    "MFA_BRAND": "KAHENA MOTORCYCLES",
+    "MFA_MFC_CODE": "KAHENA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11873,
+    "MFA_BRAND": "MIZA MOTORCYCLES",
+    "MFA_MFC_CODE": "MIZA",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11874,
+    "MFA_BRAND": "REGAL RAPTOR MC",
+    "MFA_MFC_CODE": "REGAL RAPT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11875,
+    "MFA_BRAND": "SHINERAY MOTORCYCLES",
+    "MFA_MFC_CODE": "SHINERAY",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11876,
+    "MFA_BRAND": "VENTO MOTORCYCLES",
+    "MFA_MFC_CODE": "VENTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11882,
+    "MFA_BRAND": "MVK MOTORCYCLES",
+    "MFA_MFC_CODE": "MVK",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11883,
+    "MFA_BRAND": "ROYAL ENFIELD MC",
+    "MFA_MFC_CODE": "ROYALENFIE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11887,
+    "MFA_BRAND": "KANDI",
+    "MFA_MFC_CODE": "KANDI",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11888,
+    "MFA_BRAND": "AGCO ALLIS",
+    "MFA_MFC_CODE": "AGCO ALLIS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11889,
+    "MFA_BRAND": "PFANZELT",
+    "MFA_MFC_CODE": "PFANZELT",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11890,
+    "MFA_BRAND": "ISUZU (JIANGXI)",
+    "MFA_MFC_CODE": "ISUZU JIAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11896,
+    "MFA_BRAND": "SOMMER MOTORCYCLES",
+    "MFA_MFC_CODE": "SOMMER MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11897,
+    "MFA_BRAND": "TGB MOTORCYCLES",
+    "MFA_MFC_CODE": "TGB MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11898,
+    "MFA_BRAND": "BEELINE MOTORCYCLES",
+    "MFA_MFC_CODE": "BEELINE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11899,
+    "MFA_BRAND": "GENERIC MOTORCYCLES",
+    "MFA_MFC_CODE": "GENERIC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11900,
+    "MFA_BRAND": "RIVERO MOTORCYCLES",
+    "MFA_MFC_CODE": "RIVERO MOT",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11903,
+    "MFA_BRAND": "SWM MOTORCYCLES",
+    "MFA_MFC_CODE": "SWM MOTOR",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11910,
+    "MFA_BRAND": "ALPHEON",
+    "MFA_MFC_CODE": "ALPHEON",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11914,
+    "MFA_BRAND": "BAIC BJEV",
+    "MFA_MFC_CODE": "BAIC BJEV",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11917,
+    "MFA_BRAND": "TROLIGA BUS",
+    "MFA_MFC_CODE": "TROLIGABUS",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11919,
+    "MFA_BRAND": "BOATIAN MOTORCYCLES",
+    "MFA_MFC_CODE": "BOATIAN MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11920,
+    "MFA_BRAND": "CF MOTO MOTORCYCLES",
+    "MFA_MFC_CODE": "CF MOTO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11921,
+    "MFA_BRAND": "TOMOS MOTORCYCLES",
+    "MFA_MFC_CODE": "TOMOS MC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11935,
+    "MFA_BRAND": "BOGDAN",
+    "MFA_MFC_CODE": "BOGDAN",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11941,
+    "MFA_BRAND": "KARSAN",
+    "MFA_MFC_CODE": "KARSAN",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 1
+  },
+  {
+    "MFA_ID": 11942,
+    "MFA_BRAND": "BENDE",
+    "MFA_MFC_CODE": "BENDE",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11944,
+    "MFA_BRAND": "TONGJIAFU",
+    "MFA_MFC_CODE": "TONGJIAFU",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11945,
+    "MFA_BRAND": "TONGBAO",
+    "MFA_MFC_CODE": "TONGBAO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11946,
+    "MFA_BRAND": "HEIBAO",
+    "MFA_MFC_CODE": "HEIBAO",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11950,
+    "MFA_BRAND": "JEEP (GAC FCA)",
+    "MFA_MFC_CODE": "JEEP GAC",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11951,
+    "MFA_BRAND": "ADR",
+    "MFA_MFC_CODE": "ADR AXLES",
+    "MFA_PC_MFC": 0,
+    "MFA_CV_MFC": 0
+  },
+  {
+    "MFA_ID": 11964,
+    "MFA_BRAND": "DS",
+    "MFA_MFC_CODE": "DS",
+    "MFA_PC_MFC": 1,
+    "MFA_CV_MFC": 0
+  }
+]

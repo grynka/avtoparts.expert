@@ -1,0 +1,23 @@
+.tagline {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: $brand-color-white;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: $font;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tagline_sub {
+    font-size: 16px;
+    font-weight: 400;
+        width: 100%;
+    text-align: center;
+}
+
+.tagline_icons {
+    width: 40px;
+    height: 30px;
+}

@@ -1,0 +1,23 @@
+.search__button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid #7C4DFF;
+    background: linear-gradient(90deg, #D500F9 0%, #FF1744 100%);
+}
+
+
+.search__field {
+    height: 40px;
+    border-radius: 20px;
+    font-size: 14px;
+    border: 1px solid #3B3B3C;
+    background-color: #F0EFF4;
+    max-width: 700px;
+}
+.search {
+    position: relative;
+}

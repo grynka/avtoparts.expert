@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(138.64deg, #943D17 37.73%, rgba(127, 99, 46, 0.817708) 59.79%, #731794 76.59%);
+}
+.container {
+    padding: 0 15px;
+    max-width: 1260px;
+    margin: 0 auto;
+}
+
+main {
+    height: calc(100vh - 80px);
+}
+
+
+.parts {
+    background: none;
+}
+
+.parts .nav-logo__text {
+    color: black;
+    fill: black;
+}
+
+.nav-logo__icons {
+    width: 26px;
+    height: 21px;
+}
