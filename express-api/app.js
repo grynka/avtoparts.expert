@@ -1,34 +1,25 @@
-
-import bodyParser from 'body-parser';
-import express from 'express';
-import routes from './routes/routes.js';
+// Require packages and set the port
+const express = require('express');
 const port = 3002;
+const bodyParser = require('body-parser');
+const routes = require('./routes/routes')
 const app = express();
+const cors = require('cors');
+
+
 
 // Use Node.js body parsing middleware
+app.use(cors());
 app.use(bodyParser.json());
-app.use(
-  bodyParser.urlencoded({
+app.use(bodyParser.urlencoded({
     extended: true,
-  })
-);
+}));
 
 routes(app);
+
 // Start the server
-const server = app.listen(port, error => {
-  if (error) return console.log(`Error: ${error}`);
-  console.log(`Server listening on port ${server.address().port}`);
-});
+const server = app.listen(port, (error) => {
+    if (error) return console.log(`Error: ${error}`);
 
-module.exports = pool;
-
-app.get('/brand', (request, response) => {
-  pool.query(
-    'SELECT MOD_ID, TEX_TEXT AS MOD_CDS_TEXT, MOD_PCON_START, MOD_PCON_END  FROM MODELS INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID WHERE CDS_LNG_ID = 16;',
-    (error, result) => {
-      if (error) throw error;
-
-      response.send(result);
-    }
-  );
+    console.log(`Server listening on port ${server.address().port}`);
 });
