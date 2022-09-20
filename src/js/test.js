@@ -16,23 +16,25 @@ let models = [];
 
 async function getModel(brand) {
   let requests = brand.map(brand =>
-    fetch(`http://localhost:3002/brands/${brand}`)
+    fetch(`http://localhost:3002/brands/${brand}/${year.value}`)
       .then(response => (response.status === 200 ? response.json() : null))
    );
-  
-  
+    
   const result = await Promise.all(requests);
   
   const modelsFlat = [];
-  modelsFlat.push(...result.flat());
-  models = modelsFlat.map(
-    ({ MOD_ID, MOD_CDS_TEXT }) =>
-      `<option value="${MOD_ID}">${MOD_CDS_TEXT}
+  modelsFlat.push(
+    ...result.flat()
+  );
+  models = modelsFlat
+    .map(
+      ({ MOD_ID, MOD_CDS_TEXT }) =>
+        `<option value="${MOD_ID}">${MOD_CDS_TEXT}
       </option>`
-  )
-  .join('');
+    )
+    .join('');
   
-console.log(models);
+//console.table(modelsFlat);
   return  model.insertAdjacentHTML('beforeend', models);
 }
 
@@ -72,7 +74,7 @@ manufacturer.addEventListener(
 );
 
 function listModels(models) {
-  console.log(models.flat());
+  console.log(models);
   return models.flat()
   }
 

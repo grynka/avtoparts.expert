@@ -20,12 +20,20 @@ const router = app => {
     });
 
     // Display a single user by ID
-    app.get('/brands/:id', (request, response) => {
-      const id = request.params.id;
+    app.get('/brands/:id/:year', (request, response) => {
+        const id = request.params.id;
+        const year = request.params.year;
 
       pool.query(
-        'SELECT MOD_ID, TEX_TEXT AS MOD_CDS_TEXT, MOD_PCON_START, MOD_PCON_END FROM MODELS INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID  WHERE MOD_MFA_ID =  ?  AND CDS_LNG_ID = 16',
+        `SELECT MOD_ID, TEX_TEXT AS MOD_CDS_TEXT, MOD_PCON_START, MOD_PCON_END FROM MODELS INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID  WHERE MOD_MFA_ID =  ?  AND CDS_LNG_ID = 16 AND MOD_PCON_START <= ${year} AND MOD_PCON_END >= ${year} OR MOD_PCON_END IS NULL`,
         id,
+        (error, result) => {
+          if (error) throw error;
+
+          response.send(result);
+        },
+
+        year,
         (error, result) => {
           if (error) throw error;
 
