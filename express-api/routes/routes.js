@@ -10,6 +10,20 @@ const router = app => {
         });
     });
 
+    app.get('/brands/:id', (request, response) => {
+    const id = request.params.id;
+      pool.query(
+        `SELECT MOD_ID, TEX_TEXT AS MOD_CDS_TEXT, MOD_PCON_START, MOD_PCON_END FROM MODELS INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID  WHERE MOD_MFA_ID =  ${id}  AND CDS_LNG_ID = 16`,
+        id,
+        (error, result) => {
+          if (error) throw error;
+
+          response.send(result);
+        }
+      );
+    });
+
+
     // Display all users
     app.get('/brands', (request, response) => {
         pool.query('SELECT MFA_ID, MFA_BRAND, MFA_MFC_CODE, MFA_PC_MFC, MFA_CV_MFC FROM MANUFACTURERS ORDER BY MFA_BRAND ASC', (error, result) => {
