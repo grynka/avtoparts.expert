@@ -36,10 +36,10 @@ const router = app => {
     // Display a single user by ID
     app.get('/brands/:id/:year', (request, response) => {
         const id = request.params.id;
-        const year = request.params.year;
+        const year = request.params.year * 100;
 
       pool.query(
-        `SELECT MOD_ID, TEX_TEXT AS MOD_CDS_TEXT, MOD_PCON_START, MOD_PCON_END FROM MODELS INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID  WHERE MOD_MFA_ID =  ?  AND CDS_LNG_ID = 16 AND MOD_PCON_START <= ${year} AND MOD_PCON_END >= ${year} OR MOD_PCON_END IS NULL`,
+        `SELECT MOD_ID, TEX_TEXT AS MOD_CDS_TEXT, MOD_PCON_START, MOD_PCON_END FROM MODELS INNER JOIN COUNTRY_DESIGNATIONS ON CDS_ID = MOD_CDS_ID INNER JOIN DES_TEXTS ON TEX_ID = CDS_TEX_ID  WHERE MOD_MFA_ID =  ${id}  AND CDS_LNG_ID = 16 AND MOD_PCON_START <= ${year} AND MOD_PCON_END >= ${year}`,
         id,
         (error, result) => {
           if (error) throw error;
@@ -56,35 +56,27 @@ const router = app => {
       );
     });
 
-    // Add a new user
-    app.post('/users', (request, response) => {
-        pool.query('INSERT INTO users SET ?', request.body, (error, result) => {
-            if (error) throw error;
+    app.get('/types/:type/:year', (request, response) => {
+      const type = request.params.type;
+       const year = request.params.year * 100;
+      pool.query(
+        `SELECT TYP_ID, DES_TEXTS.TEX_TEXT AS TYP_CDS_TEXT FROM TYPES INNER JOIN COUNTRY_DESIGNATIONS ON COUNTRY_DESIGNATIONS.CDS_ID = TYP_CDS_ID AND COUNTRY_DESIGNATIONS.CDS_LNG_ID = 16 INNER JOIN DES_TEXTS ON DES_TEXTS.TEX_ID = COUNTRY_DESIGNATIONS.CDS_TEX_ID WHERE TYP_MOD_ID = ${type}  AND TYP_PCON_START <= ${year} AND TYP_PCON_END >= ${year}`,
+        type,
+        (error, result) => {
+          if (error) throw error;
 
-            response.status(201).send(`User added with ID: ${result.insertId}`);
-        });
+          response.send(result);
+        },
+         year,
+        (error, result) => {
+          if (error) throw error;
+
+          response.send(result);
+        }
+      );
     });
 
-    // Update an existing user
-    app.put('/users/:id', (request, response) => {
-        const id = request.params.id;
-
-        pool.query('UPDATE users SET ? WHERE id = ?', [request.body, id], (error, result) => {
-            if (error) throw error;
-
-            response.send('User updated successfully.');
-        });
-    });
-
-    // Delete a user
-    app.delete('/users/:id', (request, response) => {
-        const id = request.params.id;
-
-        pool.query('DELETE FROM users WHERE id = ?', id, (error, result) => {
-            if (error) throw error;
-            response.send('User deleted.');
-        });
-    });
+  
 }
 
 // Export the router
