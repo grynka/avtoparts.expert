@@ -109,7 +109,8 @@ manufacturer.addEventListener(
 );
 
 addGarage.addEventListener(
-  'submit',  (event = () => {
+  'submit', (event = () => {
+    console.log(event.target)
 event.preventDefault();
     console.log("Додано: ", manufacturer.textContent, model.textContent, type.textContent);
   }))
