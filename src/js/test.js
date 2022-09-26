@@ -98,7 +98,7 @@ async function getNumber() {
 
     autoPlace.insertAdjacentHTML(
       'beforeend',
-      response.data.data.items
+      numbers.data.data.items
         .map(
           ({ brand, model, makeYear, vin }) =>
             `<p> ${brand}, ${model},  ${makeYear},  ${vin}
