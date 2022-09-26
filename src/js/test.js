@@ -151,7 +151,7 @@ function adding(event) {
   console.log(event.target);
   console.log(
     'Додано: ',
-    manufacturer.textContent,
+    manufacturer.innerText,
     model.textContent,
     type.textContent
   );
