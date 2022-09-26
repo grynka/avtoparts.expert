@@ -92,7 +92,7 @@ async function getNumber() {
   try {
     const response = await axios.get(
       //`https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
-      numbers
+      'https://github.com/grynka/avtoparts.expert/blob/main/src/js/number.json'
     );
 console.log(response.config)
     autoPlace.insertAdjacentHTML(
