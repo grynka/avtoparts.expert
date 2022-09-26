@@ -97,7 +97,7 @@ async function getNumber() {
 
     autoPlace.insertAdjacentHTML(
       'beforeend',
-      numbers.data.data.items
+      response.data.data.items
         .map(
           ({ brand, model, makeYear, vin }) =>
             `<p> ${brand}, ${model},  ${makeYear},  ${vin}
@@ -166,3 +166,4 @@ function check(event) {
   console.log(numb);
   getNumber(numberInput.value);
 }
+
