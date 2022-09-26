@@ -94,10 +94,10 @@ async function getNumber() {
       //`https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
       numbers
     );
-
+console.log(response.config)
     autoPlace.insertAdjacentHTML(
       'beforeend',
-      response.data.data.items
+      response.config.url.data.data.items
         .map(
           ({ brand, model, makeYear, vin }) =>
             `<p> ${brand}, ${model},  ${makeYear},  ${vin}
