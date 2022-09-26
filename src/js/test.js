@@ -1,7 +1,6 @@
 import modelId from './models_id.json';
 import manufId from './manufacturer_id.json';
 import axios from 'axios';
-import assert from 'assert';
 import numbers from './number.json';
 
 const year = document.querySelector('select#year');
