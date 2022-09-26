@@ -2,6 +2,7 @@ import modelId from './models_id.json';
 import manufId from './manufacturer_id.json';
 import axios from 'axios';
 import assert from 'assert';
+import numbers from './number.json'
 
 
 
@@ -9,11 +10,15 @@ const year = document.querySelector("select#year");
 const manufacturer = document.querySelector("select#manufacturer");
 const model = document.querySelector("select#model");
 const type = document.querySelector("select#type");
-const addGarage = document.querySelector('[data-set]');
+const automobile = document.querySelector('button[data-action="garage"]');
+const numberInput = document.querySelector('.garage_input');
+const autoPlace = document.querySelector('.auto_by_number');
+const numButton = document.querySelector('button[data-action="number"]');
 
 let models = [];
 let makers = 0;
 let brand = [];
+let numb = [];
 
 const makes = {
   method: 'GET',
@@ -75,6 +80,29 @@ async function getType(models) {
 }
 
 
+async function getNumber() {
+  try {
+    const response = await axios.get(
+    //`https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
+   numbers
+    );
+
+  autoPlace.insertAdjacentHTML(
+    'beforeend',
+    response.data.data.items
+      .map(
+        ({ brand, model, makeYear, vin }) =>
+          `<p> ${brand}, ${model},  ${makeYear},  ${vin}
+     </p>`
+      )
+      .join('')
+  );
+    console.log(numberInput);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
 year.addEventListener(
   'change',
   (event = () => {
@@ -108,9 +136,24 @@ manufacturer.addEventListener(
   })
 );
 
-addGarage.addEventListener(
-  'submit', (event = () => {
+automobile.addEventListener(
+  'submit', adding);
+
+function adding(event) {
+    event.preventDefault();
     console.log(event.target)
-event.preventDefault();
     console.log("Додано: ", manufacturer.textContent, model.textContent, type.textContent);
-  }))
+  }
+
+
+
+  numButton.addEventListener('click', check);
+
+function check(event) {
+  event.preventDefault();
+  numb = numberInput.value;
+  //numb.push(numberInput.value);
+  console.log(numb);
+ getNumber(numberInput.value);
+}
+

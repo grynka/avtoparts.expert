@@ -79,7 +79,17 @@
 в Україні</p>
 </div>
 <div class="garage">
-  <h2>Выбрать автомобиль</h2>
+  <h2>Пошук авто за:</h2>
+<div class="garage_number"><p>Номером автомобіля</p>
+  <div class="parage_plate">
+    <div class="garage_plate-country"><p class="flag-blue"></p><p class="flag-yellow"></p><p class="coutry">UA</p></div>
+    <form><input class="garage_input" placeholder="АА0000АА" maxlength="8" size="8">
+    </div> <button type="submit" data-action="number">Проверить</button></form>
+</div>
+
+<div class="auto_by_number"></div>
+
+<div class="gagare_model"><p>Моделлю автомобіля</p>
   <form id="auto_select">
     <label id="year">Рік випуску</label>
     <select id="year">
@@ -123,8 +133,9 @@
     <select id="model"></select>
     <label id="type">Модифікація</label>
     <select id="type"></select>
-    <button type="submit" data-set="garage">Додати в гараж</button>
+    <button type="submit" data-action="garage">Додати в гараж</button>
   </form>
+  </div>
 </div>
                 <form class="find">
                     <input type="text" class="find_field" placeholder="Введіть код або назву запчастини" id="search">
