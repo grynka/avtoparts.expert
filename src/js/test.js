@@ -77,7 +77,7 @@ async function getType(models) {
       response.data
         .map(
           ({ TYP_ID, TYP_CDS_TEXT }) =>
-            `<option value="${TYP_ID}">${TYP_CDS_TEXT}
+            `<option name="${TYP_CDS_TEXT}" value="${TYP_ID}">${TYP_CDS_TEXT}
      </option>`
         )
         .join('')
@@ -137,14 +137,14 @@ manufacturer.addEventListener(
   (event = () => {
     model.length = 0;
     brand.push(manufacturer.value);
-    console.log(brand);
+    console.log(brand.selected);
     getModel(manufacturer.value);
     brand.length = 0;
     console.log(brand);
   })
 );
 
-automobile.addEventListener('submit', adding);
+automobile.addEventListener('click', adding);
 
 function adding(event) {
   event.preventDefault();
