@@ -1,7 +1,6 @@
 import modelId from './models_id.json';
 import manufId from './manufacturer_id.json';
 import axios from 'axios';
-import numbers from './number.json';
 
 const year = document.querySelector('select#year');
 const manufacturer = document.querySelector('select#manufacturer');
@@ -92,7 +91,7 @@ async function getNumber() {
   try {
     const response = await axios.get(
       //`https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
-      'https://github.com/grynka/avtoparts.expert/blob/main/src/js/number.json'
+      merc
     );
 console.log(response.config)
     autoPlace.insertAdjacentHTML(
@@ -167,3 +166,56 @@ function check(event) {
   getNumber(numberInput.value);
 }
 
+const merc  = {
+  "data": {
+    "status": "ok",
+    "data": {
+      "count": 1,
+      "items": [
+        {
+          "brand": "MERCEDES-BENZ",
+          "model": "SPRINTER 519 CDI",
+          "makeYear": "2013",
+          "vin": "WDB9061551N555296",
+          "kind": "ВАНТАЖНИЙ",
+          "fuel": "ДИЗЕЛЬНЕ ПАЛИВО",
+          "color": "БІЛИЙ",
+          "lastDate": "2016-04-22 00:00:00",
+          "capacity": 2987,
+          "wanted": 0,
+          "operCode": 100,
+          "number": "АА7015КН"
+        }
+      ]
+    },
+    "forDevelopers": "https://t.me/joinchat/nyOvz2if_pkyOGU1"
+  },
+  "status": 200,
+  "statusText": "",
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [null],
+    "transformResponse": [null],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "env": {
+      "FormData": null
+    },
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "method": "get",
+    "url": "https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=AA7015KH"
+  },
+  "request": {}
+}
