@@ -1,11 +1,12 @@
 const mysql = require('mysql');
 const config = {
-  host: 'localhost:3002',
+  host: 'localhost',
   user: 'root',
   password: '',
-  database: 'tecdoc',
+  database: 'td1q2018',
 };
 
 const pool = mysql.createPool(config);
+console.log(pool)
 
 module.exports = pool;
