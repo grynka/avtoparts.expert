@@ -3,7 +3,7 @@ const config = {
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'td1q2018',
+  database: 'tecdoc',
 };
 
 const pool = mysql.createPool(config);
