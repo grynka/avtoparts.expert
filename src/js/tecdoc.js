@@ -21,7 +21,7 @@ fetch('http://localhost:3002/makes')
         'beforeend',
         data.map(
             ({ id, description }) =>
-              `<li class="brand" data-model="${id}"><a href="http://localhost:3002/makes/${id}"><img src=\"/src/images/${description}.png\">${description}</a>
+              `<li class="brand" data-model="${id}"><a href="http://localhost:3002/makes/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a>
         </li>`)
           .join('')
       );
@@ -42,7 +42,7 @@ fetch('http://localhost:3002/makes')
 
   function imgBrand() {
 if (brandplace.textContent === AUDI) {
-    brandPlace.style.background = "url(..\images\AUDI.png)"
+    brandPlace.style.background = "url(../images/AUDI.png)"
 }
   }
 
@@ -51,6 +51,6 @@ if (brandplace.textContent === AUDI) {
 
 const li = document.createElement('li');
 const a = document.createElement('a');
-a.style.backgroundImage = "url('./images/ACURA.png')";
+a.style.backgroundImage = `url("./images/ACURA.png")`;
 li.appendChild(a);
 brandAuto.append(li);
