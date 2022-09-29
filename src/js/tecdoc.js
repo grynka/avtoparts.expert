@@ -5,7 +5,6 @@ const brandAuto = document.querySelector('.brand-auto');
 const imgPatch = ('src/images/')
 
 console.log(brandAuto)
-cors = require('cors');
 
 fetch('http://localhost:3002/makes')
   .then(response => {
