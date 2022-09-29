@@ -1,6 +1,3 @@
-body {
-    background: linear-gradient(138.64deg, #943D17 37.73%, rgba(127, 99, 46, 0.817708) 59.79%, #731794 76.59%);
-}
 .container {
     padding: 0 15px;
     max-width: 1260px;
@@ -25,3 +22,23 @@ main {
     width: 26px;
     height: 21px;
 }
+
+.brand-auto {
+    display: flex;
+    width: 100%;
+    margin-left: -30px;
+    flex-wrap: wrap;
+}
+
+.brand {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    outline: 2px solid;
+    border-radius: 10px;
+    flex-basis: calc(12.5% - 30px);
+margin-left: 30px;
+margin-top: 30px;
+}
+

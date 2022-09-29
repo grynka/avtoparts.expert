@@ -1,5 +1,3 @@
-import modelId from './models_id.json';
-import manufId from './manufacturer_id.json';
 import axios from 'axios';
 
 const year = document.querySelector('select#year');

@@ -1,5 +1,6 @@
 // Load the MySQL pool connection
 const pool = require('../data/config');
+const cors = require('cors');
 
 // Route the app
 const routes = app => {
@@ -10,15 +11,29 @@ const routes = app => {
     });
   });
 
-  // Display all users
+  // Display all manufacturer
   app.get('/makes', (request, response) => {
-    pool.query(`SELECT id, description FROM manufacturers WHERE canbedisplayed = 'True' AND ispassengercar = 'True' AND iscommercialvehicle = 'False'`,
+    pool.query(`SELECT id, description FROM manufacturers WHERE canbedisplayed = 'True' AND ispassengercar = 'True' AND iscommercialvehicle = 'False' ORDER BY description `
+    ,
       (error, result) => {
         if (error) throw error;
 
         response.send(result);
       }
     );
+  });
+
+    // Display all model by id manufacturer
+  app.get('/makes/:id', (request, response) => {
+    const id = request.params.id;
+
+    pool.query(`SELECT id, description name, constructioninterval FROM models WHERE canbedisplayed = 'True'
+    AND manufacturerid = ${id} AND ispassengercar = 'True'
+    ORDER BY description name`, id, (error, result) => {
+      if (error) throw error;
+
+      response.send(result);
+    });
   });
 
     app.get('/brands', (request, response) => {
