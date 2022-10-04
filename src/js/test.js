@@ -118,8 +118,7 @@ async function getVin() {
 async function getNumber() {
   try {
     const response = await axios.get(
-      //`https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
-      merc
+      `https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
     );
     console.log(response.config);
     autoPlace.insertAdjacentHTML(
