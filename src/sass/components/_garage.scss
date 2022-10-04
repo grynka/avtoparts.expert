@@ -1,10 +1,9 @@
 .garage {
     display: flex;
     align-items: center;
-    flex-direction: column;
-    color: white;
-    justify-content: center;
+    justify-content: space-around;
     margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 
 .parage_plate {
@@ -53,6 +52,7 @@ input.garage_input {
     height: 100%;
     background-color: #004778;
     display: block;
+    color: #ffffff;
 }
 
 .coutry {
@@ -65,4 +65,54 @@ input.garage_input {
 
 .garage_input:focus {
     outline: none;
+}
+
+.auto_by_number {
+    color: black;
+}
+
+input.vin_input {
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.garage h2 {
+    width: 100%;
+    text-align: center;
+}
+
+.vin_field {
+    position: relative;
+}
+
+img.vin_icon {
+    position: absolute;
+    left: 5px;
+    top: 3px;
+}
+
+input.vin_input {
+    padding-left: 36px;
+    text-align: center;
+}
+
+.vin_text {
+    position: absolute;
+    left: 8px;
+    top: 24px;
+    font-size: 12px;
+}
+
+#auto_select {
+    display: flex;
+    flex-wrap: wrap;
+    height: 40px;
+    font-size: 20px;
+    align-content: center;
+    
+}
+
+#auto_select>select {
+    margin: 0 15px;
 }

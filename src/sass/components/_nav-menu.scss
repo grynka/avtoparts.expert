@@ -3,6 +3,8 @@
     display: none;
     text-transform: uppercase;
     color: $brand-color-white;
+    padding-left: 0;
+    padding-right: 40px;
 
       @media screen and (min-width: $tablet) {
     display: flex;
@@ -34,12 +36,20 @@
 }
 
 .parts .nav-logo__text {
-    color: #fff;
-    fill: #fff;
     width: 100px;
     display: block;
 }
 
 nav.container {
-  background-color: #943d18;
+  background-color: lightseagreen;
+  height: 90px;
+}
+
+.nav-search {
+  width: 80%;
+}
+
+a.nav-logo {
+  fill: white;
+  color: white;
 }

@@ -1,6 +1,6 @@
 .find_field {
     height: 80px;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     border-radius: 40px;
@@ -8,4 +8,53 @@
     font-size: 14px;
     font-family: $font;
     border: 1px solid black;
+    position: relative;
 }
+
+
+button#search1 {
+    height: 80px;
+    width: 80px;
+    background: linear-gradient(90deg, #4c4c4d17 0%, #bdb7b8c0 100%);
+    border: 1px solid #333333;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+form.find {
+    position: relative;
+    width: 90%;
+    display: flex;
+margin: 0 auto;
+}
+
+.search__button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid #323233;
+    background: linear-gradient(90deg, #D500F9 0%, #FF1744 100%);
+}
+
+.car_search {
+    width: 16px;
+    height: 18px;
+    position: absolute;
+
+}
+svg.search_icons {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    bottom: 6px;
+    right: 4px;
+    fill: darkslategrey;
+}
+

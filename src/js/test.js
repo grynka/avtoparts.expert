@@ -8,6 +8,8 @@ const automobile = document.querySelector('button[data-action="garage"]');
 const numberInput = document.querySelector('.garage_input');
 const autoPlace = document.querySelector('.auto_by_number');
 const numButton = document.querySelector('button[data-action="number"]');
+const vinInput = document.querySelector('.vin_input');
+const vinButton = document.querySelector('button[data-action="vin"]');
 
 let models = [];
 let makers = 0;
@@ -85,13 +87,41 @@ async function getType(models) {
   }
 }
 
+async function getVin() {
+  try {
+    const response = await axios.get(
+      `https://baza-gai.com.ua/vin/${vinInput.value}`,
+      {
+        headers: {
+          Accept: 'application/json',
+          'X-Api-Key': 'a382ea1e29e050d098178731e9e9134e',
+        },
+      }
+    );
+
+    console.log(
+      response.data.vendor,
+      response.data.model,
+      response.data.model_year,
+      response.data.vin
+    );
+  autoPlace.insertAdjacentHTML(
+    'beforeend',
+              `<p> ${response.data.vendor}, ${response.data.model},  ${response.data.model_year}, ${response.data.vin}</p>`
+      )
+  
+  } catch (error) {
+    console.error(error);
+  }
+}
+
 async function getNumber() {
   try {
     const response = await axios.get(
       //`https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
       merc
     );
-console.log(response.config)
+    console.log(response.config);
     autoPlace.insertAdjacentHTML(
       'beforeend',
       response.config.url.data.data.items
@@ -162,6 +192,15 @@ function check(event) {
   //numb.push(numberInput.value);
   console.log(numb);
   getNumber(numberInput.value);
+}
+
+vinButton.addEventListener('click', search);
+
+function search(event) {
+  event.preventDefault();
+    //numb.push(numberInput.value);
+  console.log(vinInput.value);
+  getVin(vinInput.value);
 }
 
 const merc  = {
