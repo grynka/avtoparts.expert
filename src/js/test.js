@@ -120,10 +120,10 @@ async function getNumber() {
     const response = await axios.get(
       `https://opendatabot.com/api/v3/tech-passport?apiKey=ke2CdK5YxBPn&number=${numberInput.value}`
     );
-    console.log(response.config);
+    console.log(response);
     autoPlace.insertAdjacentHTML(
       'beforeend',
-      response.config.url.data.data.items
+      response.data.data.items
         .map(
           ({ brand, model, makeYear, vin }) =>
             `<p> ${brand}, ${model},  ${makeYear},  ${vin}
