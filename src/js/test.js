@@ -3,7 +3,8 @@ import axios from 'axios';
 const year = document.querySelector('select#year');
 const manufacturer = document.querySelector('select#manufacturer');
 const model = document.querySelector('select#model');
-const type = document.querySelector('select#type');
+//const type = document.querySelector('select#type');
+const engine = document.querySelector('select#engine');
 const automobile = document.querySelector('button[data-action="garage"]');
 const numberInput = document.querySelector('.garage_input');
 const autoPlace = document.querySelector('.auto_by_number');
@@ -11,10 +12,12 @@ const numButton = document.querySelector('button[data-action="number"]');
 const vinInput = document.querySelector('.vin_input');
 const vinButton = document.querySelector('button[data-action="vin"]');
 
+
 let models = [];
 let makers = 0;
 let brand = [];
 let numb = [];
+let typ = [];
 
 const makes = {
   method: 'GET',
@@ -26,6 +29,85 @@ const makes = {
 };
 
 async function getMakers() {
+  try {
+    const response = await axios.get('http://localhost:3002/makes/');
+    manufacturer.insertAdjacentHTML(
+      'beforeend',
+      response.data
+        .map(
+          ({ id, description }) =>
+            `<option value = "${id}">${description}</option>`
+        )
+        .join()
+    );
+    console.log(makers);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+async function getModels(brand) {
+  console.log(brand, year.value);
+  try {
+    const response = await axios.get(
+      `http://localhost:3002/makes/${brand}`
+    );
+    console.log(response);
+    model.insertAdjacentHTML(
+      'beforeend',
+      response.data
+        .map(
+          ({id, name, constructioninterval }) =>
+            `<option value="${id}">${name}, ${constructioninterval }
+      </option>`
+        )
+        .join('')
+    );
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+async function getEngines(models) {
+  try {
+    const response = await axios.get(
+      `http://localhost:3002/types/${models}`
+    );
+    console.log(response);
+    engine.insertAdjacentHTML(
+      'beforeend',
+      response.data
+        .map(
+          ({ id, name }) =>
+            `<option name="${id}" value="${id}">${name}
+     </option>`
+        )
+        .join('')
+    );
+    console.log(models);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+async function getTypes(engine) {
+  try {
+    const response = await axios.get(
+      `http://localhost:3002/engine/${engine}`
+    );
+    console.log(response);
+     
+    console.log(response.data.id);
+
+    return typ.push(response.data.id)
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+
+
+async function getBrands() {
   try {
     const response = await axios.get('http://localhost:3002/brands/');
     manufacturer.insertAdjacentHTML(
@@ -149,11 +231,11 @@ model.addEventListener(
   'change',
   (event = () => {
     console.log(model.value);
-    type.length = 0;
+    engine.length = 0;
     models.push(model.value);
     console.log(models);
-    getType(model.value);
-    models.length = 0;
+    getEngines(model.value);
+    engine.length = 0;
     console.log(models);
   })
 );
@@ -164,9 +246,22 @@ manufacturer.addEventListener(
     model.length = 0;
     brand.push(manufacturer.value);
     console.log(brand.selected);
-    getModel(manufacturer.value);
+    getModels(manufacturer.value);
     brand.length = 0;
     console.log(brand);
+  })
+);
+
+engine.addEventListener(
+  'change',
+  (event = () => {
+    console.log(engine.value);
+   // engine.length = 0;
+  //  models.push(engine.value);
+    console.log(engine);
+    getTypes(engine.value);
+    //type.length = 0;
+    console.log(engine);
   })
 );
 
@@ -177,9 +272,9 @@ function adding(event) {
   console.log(event.target);
   console.log(
     'Додано: ',
-    manufacturer.innerText,
-    model.textContent,
-    type.textContent
+    manufacturer.value,
+    model.value,
+    engine.value
   );
 }
 

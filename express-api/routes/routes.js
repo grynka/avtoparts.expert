@@ -29,12 +29,38 @@ const routes = app => {
 
     pool.query(`SELECT id, description name, constructioninterval FROM models WHERE canbedisplayed = 'True'
     AND manufacturerid = ${id} AND ispassengercar = 'True'
-    ORDER BY description name`, id, (error, result) => {
+    ORDER BY description`, id, (error, result) => {
       if (error) throw error;
 
       response.send(result);
     });
   });
+
+      // Display all types by id model
+      app.get('/types/:id', (request, response) => {
+        const id = request.params.id;
+    
+        pool.query(`SELECT id, fulldescription name
+        FROM passanger_cars pc 
+        WHERE canbedisplayed = 'True'
+        AND modelid = ${id} AND ispassengercar = 'True'`, id, (error, result) => {
+          if (error) throw error;
+    
+          response.send(result);
+        });
+      });
+    
+      app.get('/engine/:id', (request, response) => {
+        const id = request.params.id;
+    
+        pool.query(`SELECT id, fulldescription name FROM passanger_cars pc 
+        WHERE 
+   id = ${id} AND ispassengercar = 'True'`, id, (error, result) => {
+          if (error) throw error;
+    
+          response.send(result);
+        });
+      });
 
     app.get('/brands', (request, response) => {
       pool.query(
@@ -47,25 +73,7 @@ const routes = app => {
       );
     });
   
-  // Display a single user by ID
-  app.get('/users/:id', (request, response) => {
-    const id = request.params.id;
-
-    pool.query('SELECT * FROM users WHERE id = ?', id, (error, result) => {
-      if (error) throw error;
-
-      response.send(result);
-    });
-  });
-
-  // Add a new user
-  app.post('/users', (request, response) => {
-    pool.query('INSERT INTO users SET ?', request.body, (error, result) => {
-      if (error) throw error;
-
-      response.status(201).send(`User added with ID: ${result.insertId}`);
-    });
-  });
+  
 
   // Update an existing user
   app.put('/users/:id', (request, response) => {

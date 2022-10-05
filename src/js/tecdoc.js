@@ -3,8 +3,8 @@ const { URLSearchParams } = require('url');
 
 const brandAuto = document.querySelector('.brand-auto');
 const imgPatch = ('src/images/')
-
-console.log(brandAuto)
+const make = document.querySelector('a')
+const MODELS = document.querySelector('.models');
 
 fetch('http://localhost:3002/makes')
   .then(response => {
@@ -30,22 +30,40 @@ fetch('http://localhost:3002/makes')
     // Error handling
   });
 
+function getModel(makes) {
+  fetch(`http://localhost:3002/makes/${makes}`)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(response.status);
+    }
+    return response.json();
+  })
+  .then(data => {
+    MODELS.innerHTML =
+      data.map(
+          ({ id, name, constructioninterval}) =>
+            `<li class="models" data-model="${id}">Модель: ${name}, Роки випуску: ${constructioninterval}
+      </li>`)
+        .join('')
+  })
+  .catch(error => {
+    // Error handling
+  });
+}
 
 
   
 
 
-  brandAuto.addEventListener('click', (event) => {
-        console.log(event.target.textContent);
-      
-  })
+ brandAuto.addEventListener('click', (event) => {
+event.preventDefault();
+ if (event.target.tagName === "LI")
 
-  function imgBrand() {
-if (brandplace.textContent === AUDI) {
-    brandPlace.style.background = "url(../images/AUDI.png)"
-}
-  }
+  console.log(event.target.dataset.model);
+ getModel(event.target.dataset.model)
+ })
 
+ 
  // const brandPlace = document.querySelector('.brand');
 //  imgBrand();
 
@@ -53,4 +71,4 @@ const li = document.createElement('li');
 const a = document.createElement('a');
 a.style.backgroundImage = `url("./images/ACURA.png")`;
 li.appendChild(a);
-brandAuto.append(li);
+//brandAuto.append(li);
