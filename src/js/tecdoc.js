@@ -6,7 +6,8 @@ const imgPatch = ('src/images/')
 const make = document.querySelector('a')
 const MODELS = document.querySelector('.models');
 
-fetch('http://localhost:3002/makes')
+
+fetch('https://avtoparts.onrender.com/api/autodb/manufactures')
   .then(response => {
     if (!response.ok) {
       throw new Error(response.status);
@@ -21,8 +22,8 @@ fetch('http://localhost:3002/makes')
         'beforeend',
         data.map(
             ({ id, description }) =>
-              `<li class="brand" data-model="${id}"><a href="http://localhost:3002/makes/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a>
-        </li>`)
+              `<li class="brand" data-model="${id}"><a https://avtoparts.onrender.com/api/autodb/mod/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a>
+        {description}</li>`)
           .join('')
       );
   })
@@ -31,7 +32,7 @@ fetch('http://localhost:3002/makes')
   });
 
 function getModel(makes) {
-  fetch(`http://localhost:3002/makes/${makes}`)
+  fetch(`https://avtoparts.onrender.com/api/autodb/mod/${makes}`)
   .then(response => {
     if (!response.ok) {
       throw new Error(response.status);
