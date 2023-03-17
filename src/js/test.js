@@ -57,8 +57,8 @@ async function getModels(brand) {
       'beforeend',
       response.data
         .map(
-          ({id, name, constructioninterval }) =>
-            `<option value="${id}">${name}, ${constructioninterval }
+          ({id, description, constructioninterval }) =>
+            `<option value="${id}">${description}, ${constructioninterval }
       </option>`
         )
         .join('')
