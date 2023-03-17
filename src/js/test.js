@@ -30,7 +30,7 @@ const makes = {
 
 async function getMakers() {
   try {
-    const response = await axios.get('http://localhost:3002/makes/');
+    const response = await axios.get('https://avtoparts.onrender.com/api/autodb/manuf');
     manufacturer.insertAdjacentHTML(
       'beforeend',
       response.data
@@ -50,7 +50,7 @@ async function getModels(brand) {
   console.log(brand, year.value);
   try {
     const response = await axios.get(
-      `http://localhost:3002/makes/${brand}`
+      `https://avtoparts.onrender.com/api/autodb/mod/${brand}`
     );
     console.log(response);
     model.insertAdjacentHTML(
