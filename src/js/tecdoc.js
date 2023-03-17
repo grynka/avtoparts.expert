@@ -32,7 +32,7 @@ fetch('https://avtoparts.onrender.com/api/autodb/manufactures')
   });
 
 function getModel(makes) {
-  fetch(`http://localhost:3002/makes/${makes}`)
+  fetch(`https://avtoparts.onrender.com/api/autodb/mod/${makes}`)
   .then(response => {
     if (!response.ok) {
       throw new Error(response.status);
