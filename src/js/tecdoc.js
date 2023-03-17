@@ -6,7 +6,8 @@ const imgPatch = ('src/images/')
 const make = document.querySelector('a')
 const MODELS = document.querySelector('.models');
 
-fetch('http://localhost:3002/makes')
+
+fetch('https://avtoparts.onrender.com/api/autodb/manufactures')
   .then(response => {
     if (!response.ok) {
       throw new Error(response.status);
@@ -20,8 +21,8 @@ fetch('http://localhost:3002/makes')
    brandAuto.insertAdjacentHTML(
         'beforeend',
         data.map(
-            ({ id, description }) =>
-              `<li class="brand" data-model="${id}"><a href="http://localhost:3002/makes/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a>
+            ({ id, name }) =>
+              `<li class="brand" data-model="${id}"><a https://avtoparts.onrender.com/api/autodb/mod/${id}" style="background-image: url(./images/${name}.png)"><img src=\"./images/${description}.png\"></a>
         </li>`)
           .join('')
       );
