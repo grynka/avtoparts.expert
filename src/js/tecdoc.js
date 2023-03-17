@@ -7,7 +7,7 @@ const make = document.querySelector('a')
 const MODELS = document.querySelector('.models');
 
 
-fetch('https://avtoparts.onrender.com/api/autodb/manufactures')
+fetch('https://avtoparts.onrender.com/api/autodb/manuf')
   .then(response => {
     if (!response.ok) {
       throw new Error(response.status);
@@ -22,8 +22,7 @@ fetch('https://avtoparts.onrender.com/api/autodb/manufactures')
         'beforeend',
         data.map(
             ({ id, description }) =>
-              `<li class="brand" data-model="${id}"><a https://avtoparts.onrender.com/api/autodb/mod/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a>
-        {description}</li>`)
+              `<li class="brand" data-model="${id}"><a https://avtoparts.onrender.com/api/autodb/mod/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a></li>`)
           .join('')
       );
   })
