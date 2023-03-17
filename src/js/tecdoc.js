@@ -21,9 +21,9 @@ fetch('https://avtoparts.onrender.com/api/autodb/manufactures')
    brandAuto.insertAdjacentHTML(
         'beforeend',
         data.map(
-            ({ id, name }) =>
-              `<li class="brand" data-model="${id}"><a https://avtoparts.onrender.com/api/autodb/mod/${id}" style="background-image: url(./images/${name}.png)"><img src=\"./images/${description}.png\"></a>
-        </li>`)
+            ({ id, description }) =>
+              `<li class="brand" data-model="${id}"><a https://avtoparts.onrender.com/api/autodb/mod/${id}" style="background-image: url(./images/${description}.png)"><img src=\"./images/${description}.png\"></a>
+        {description}</li>`)
           .join('')
       );
   })
